@@ -43,9 +43,9 @@
      inkscape:window-height="1033"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000002"
-     inkscape:cx="379.84904"
-     inkscape:cy="2487.2837"
+     inkscape:zoom="0.46000002"
+     inkscape:cx="1034.8498"
+     inkscape:cy="737.47739"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,11 +58,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -116,7 +116,7 @@
        sodipodi:nodetypes="csssssc" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 148.80914,2140.9069 c -61.628021,143.3288 390.23276,84.8962 428.31614,78.4896 31.0981,-3.9095 52.75377,-56.4084 12.07723,-95.9393 -21.46056,-23.0368 -380.56051,-58.7088 -440.39337,17.4497 z"
+       d="m 138.34095,2140.9069 c -65.917964,143.3288 417.39699,84.8962 458.13136,78.4896 33.26285,-3.9095 56.42597,-56.4084 12.91793,-95.9393 -22.95443,-23.0368 -407.05144,-58.7088 -471.04929,17.4497 z"
        id="path4430"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -188,7 +188,9 @@
          style="font-size:45px"
          x="977.2323"
          y="359.99969"
-         id="tspan4144-1">Par ce froid?!</tspan><tspan
+         id="tspan4144-1">Par <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
+   id="tspan4178">ce</tspan> froid?!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="977.2323"
@@ -251,7 +253,7 @@
          style="font-size:45px"
          x="376.62363"
          y="2182.0615"
-         id="tspan4221-0-2">Le froid, Le froid !</tspan></text>
+         id="tspan4221-0-2">&quot;Le froid&quot;, &quot;le froid&quot;!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
