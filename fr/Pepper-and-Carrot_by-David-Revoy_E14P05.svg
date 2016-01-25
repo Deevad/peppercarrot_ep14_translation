@@ -32,15 +32,6 @@
      id="defs6">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4232"
-       id="linearGradient4238"
-       x1="1956.4867"
-       y1="1758.8628"
-       x2="1955.2883"
-       y2="1705.3795"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        id="linearGradient4232">
       <stop
          style="stop-color:#2b0000;stop-opacity:1"
@@ -190,6 +181,90 @@
        x2="1955.2883"
        y2="1705.3795"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5561-7-4"
+       inkscape:label="Roughen">
+      <feFlood
+         id="feFlood5563-4-2"
+         flood-opacity="1"
+         flood-color="rgb(135,2,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5565-6-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology5567-3-5"
+         operator="dilate"
+         radius="1.3"
+         result="result3"
+         scale="33.299999999999997" />
+      <feComposite
+         id="feComposite5569-6-6"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic"
+         radius="3.3999999999999999" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4681-0" />
+      <feTurbulence
+         id="feTurbulence4683-0"
+         type="fractalNoise"
+         numOctaves="1"
+         seed="311"
+         baseFrequency="0.002 0.032999999999999988"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4685-7"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="33.292831"
+         yChannelSelector="G"
+         xChannelSelector="R" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4232"
+       id="linearGradient4210"
+       x1="1956.4867"
+       y1="1758.8628"
+       x2="1955.2883"
+       y2="1705.3795"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4232"
+       id="linearGradient4218"
+       x1="1956.4867"
+       y1="1758.8628"
+       x2="1955.2883"
+       y2="1705.3795"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4232"
+       id="linearGradient4226"
+       x1="1956.4867"
+       y1="1758.8628"
+       x2="1955.2883"
+       y2="1705.3795"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4232"
+       id="linearGradient4234"
+       x1="1956.4867"
+       y1="1758.8628"
+       x2="1955.2883"
+       y2="1705.3795"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -205,8 +280,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="926.22029"
-     inkscape:cy="709.6938"
+     inkscape:cx="1147.0331"
+     inkscape:cy="1236.3668"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -219,11 +294,11 @@
     <image
        sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -352,25 +427,6 @@
          id="tspan4252-1">Non !</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4238);fill-opacity:1;fill-rule:nonzero;stroke:#854611;stroke-width:1.1157254;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="1705.2566"
-       y="1742.2045"
-       id="text4251"
-       sodipodi:linespacing="125%"
-       transform="matrix(1.0496631,-0.00680912,-0.72183224,1.8831671,492.13074,-1334.5956)"><tspan
-         sodipodi:role="line"
-         id="tspan4253"
-         x="1705.2566"
-         y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:1.1157254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-           id="tspan4365"
-           style="font-size:45.57711792px;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:1.1157254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">COCORICOOOOO ! </tspan><tspan
-           id="tspan4311"
-           style="font-size:55.8440094px;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:1.1157254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">! </tspan><tspan
-           id="tspan4369"
-           style="font-size:72.51364136px;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:1.1157254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">!</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="310.95746"
        y="1886.489"
@@ -396,5 +452,26 @@
          id="tspan4205-3-3"><tspan
    style="font-size:121.45326996px"
    id="tspan4438">!</tspan>!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:url(#linearGradient4238-1);fill-opacity:1;fill-rule:nonzero;stroke:#854611;stroke-width:0.07121496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-4);enable-background:accumulate"
+       x="1705.2566"
+       y="1742.2045"
+       id="text4251"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.0496631,-0.00680912,-0.72183224,1.8831671,499.77495,-1332.9519)"><tspan
+         sodipodi:role="line"
+         id="tspan4253"
+         x="1705.2566"
+         y="1742.2045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4238-1);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+           id="tspan4365"
+           style="font-size:45.57711792px;fill:url(#linearGradient4238-1);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">COCORICO<tspan
+   style="font-size:35.7850647px;fill:url(#linearGradient4238-1)"
+   id="tspan4245">O</tspan>oooo ! </tspan><tspan
+           id="tspan4311"
+           style="font-size:55.8440094px;fill:url(#linearGradient4238-1);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">! </tspan><tspan
+           id="tspan4369"
+           style="font-size:72.51364136px;fill:url(#linearGradient4238-1);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">!</tspan></tspan></text>
   </g>
 </svg>
