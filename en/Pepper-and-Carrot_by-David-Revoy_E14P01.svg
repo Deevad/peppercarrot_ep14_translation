@@ -12,10 +12,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
-   sodipodi:docname="temp.svg">
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E14P01.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -42,19 +42,6 @@
          inkscape:collect="always"
          stdDeviation="0.3401381"
          id="feGaussianBlur5843" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter4777"
-       x="-0.010849841"
-       width="1.0216997"
-       y="-0.052787544"
-       height="1.1055751">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.66607649"
-         id="feGaussianBlur4779" />
     </filter>
     <filter
        inkscape:collect="always"
@@ -95,6 +82,19 @@
          stdDeviation="0.52769825"
          id="feGaussianBlur4835" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4206"
+       x="-0.012391832"
+       width="1.0247837"
+       y="-0.057763632"
+       height="1.1155273">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.53741041"
+         id="feGaussianBlur4208" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -110,8 +110,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.5844679"
-     inkscape:cx="1779.2236"
-     inkscape:cy="407.59842"
+     inkscape:cx="821.47785"
+     inkscape:cy="2684.7392"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="0"
@@ -122,13 +122,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep14_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -317,47 +317,47 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento">33</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:18.26206207px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.744;fill:#221415;fill-opacity:1;stroke:#502a2a;stroke-width:0.99138767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4833);font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.26206207px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.744;fill:#221415;fill-opacity:1;stroke:#502a2a;stroke-width:0.99138767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4833)"
        x="705.80756"
        y="803.86755"
        id="text4243"
        sodipodi:linespacing="125%"
-       transform="matrix(0.79713115,0,0,1.0064892,140.66816,-6.0753378)"><tspan
+       transform="matrix(1.1833786,0,0,1.563351,-128.39435,-471.4696)"><tspan
          sodipodi:role="line"
          x="705.80756"
          y="803.86755"
          id="tspan4247"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:#502a2a;stroke-width:0.99138767;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento">Private</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;stroke:#502a2a;stroke-width:0.99138767;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /><tspan
          sodipodi:role="line"
          x="705.80756"
          y="826.69513"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;stroke:#502a2a;stroke-width:0.99138767;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento"
-         id="tspan3069">Property</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;stroke:#502a2a;stroke-width:0.99138767;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan3069">PROPERTY</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:29.94702911px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.744;fill:#241516;fill-opacity:1;stroke:#5a2c2c;stroke-width:0.90251106;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter4777);font-family:Arial;-inkscape-font-specification:Arial"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.94702911px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:0.744;fill:#241516;fill-opacity:1;stroke:#5a2c2c;stroke-width:0.90251106;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4206)"
        x="632.77014"
        y="779.69183"
        id="text4357"
        sodipodi:linespacing="125%"
-       transform="matrix(0.80303539,0,0,1.0105117,156.78074,-7.4204277)"><tspan
+       transform="matrix(1.0944522,0,0,1.3152093,-42.772409,-232.97148)"><tspan
          sodipodi:role="line"
          id="tspan4359"
          x="632.77014"
          y="779.69183"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;stroke:#5a2c2c;stroke-width:0.90251106;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Fondamento;-inkscape-font-specification:Fondamento">WITCH</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:start;text-anchor:start;stroke:#5a2c2c;stroke-width:0.90251106;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">WITCH</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.29540443px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.58800001;fill:#2d1a1c;fill-opacity:1;stroke:#3e1b1b;stroke-width:0.95986925;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4781);"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.29540443px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.58800001;fill:#2d1a1c;fill-opacity:1;stroke:#3e1b1b;stroke-width:0.95986927;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4781)"
        x="653.07074"
        y="748.37018"
        id="text4385"
        sodipodi:linespacing="125%"
-       transform="matrix(0.79455016,0,0,1.0126534,143.35797,-10.199364)"><tspan
+       transform="matrix(0.94204175,0,0,1.1970137,29.699837,-140.27445)"><tspan
          sodipodi:role="line"
          id="tspan4387"
          x="653.07074"
          y="748.37018"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke-width:0.95986925;stroke-miterlimit:4;stroke-dasharray:none;stroke:#3e1b1b;stroke-opacity:1;">DANGER</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#3e1b1b;stroke-width:0.95986927;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">WARNING</tspan></text>
   </g>
 </svg>
