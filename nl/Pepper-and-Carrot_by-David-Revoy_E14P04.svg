@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E14P04.svg">
@@ -39,14 +39,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1600"
+     inkscape:window-height="835"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40000001"
-     inkscape:cx="875.08816"
-     inkscape:cy="1534.8761"
-     inkscape:window-x="1920"
+     inkscape:cx="1152.5882"
+     inkscape:cy="952.37611"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P04.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep14_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P04.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -77,7 +77,7 @@
        sodipodi:nodetypes="cccccccccccccccccccc" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1512.728,333.23881 c -14.0275,-2.75755 -26.8311,5.52359 -38.636,12.07893 -7.6021,3.93838 -15.7544,7.60882 -20.9722,14.87533 -5.1521,5.73841 -6.9366,15.9276 -0.2434,21.24242 4.7631,2.76075 11.6542,7.97375 7.1799,14.25838 -2.5773,5.32331 -9.5316,7.01313 -10.6679,13.1085 -2.7717,8.49796 4.1303,16.17783 11.2558,19.25645 5.2807,2.03439 10.1592,2.80096 10.8624,9.29875 5.382,9.76609 17.2314,11.34577 27.0726,12.19411 8.4483,0.44992 16.9745,1.81986 25.3365,-0.24661 9.3756,-1.707 20.6892,-4.58685 28.4252,2.99641 13.6091,8.48643 30.0643,10.30023 45.6868,11.07215 7.8612,0.0565 15.8089,0.95629 23.6205,0.12757 16.4985,-2.8175 33.3706,-3.75591 50.0017,-1.71264 17.3475,-0.095 29.8984,-16.69364 47.3406,-16.25915 14.365,-3.33988 30.3242,-6.59382 40.489,-18.5539 4.4311,-4.36517 4.1325,-11.66902 9.7937,-14.45037 4.3409,-6.16102 -1.6917,-14.45989 -7.9214,-15.99606 -6.0335,-0.32119 5.3667,-2.213 6.5922,-5.01905 6.2326,-4.59011 10.6854,-14.65891 4.778,-21.34731 -13.2948,-12.80871 -33.4784,-13.59931 -46.8434,-26.36988 -11.1265,-5.50852 -22.9556,1.08434 -34.2396,2.33379 -5.5596,-1.26427 -7.9315,-10.50793 -14.9097,-11.5648 -8.956,-3.81615 -18.8433,-3.95541 -28.3857,-4.03777 -9.2471,6.39721 -20.9792,3.94985 -30.7436,0.29467 -8.5214,-3.10334 -17.6105,-5.53554 -26.6629,-3.50688 -6.6728,0.53179 -14.2617,3.98461 -20.5142,1.19596 -8.7961,-7.44542 -20.8389,-3.72347 -31.1931,-4.54728 -7.1157,-2.01053 -13.6156,2.57428 -19.8905,5.36572 -2.5088,1.11665 -10.3503,5.89786 -1.9078,3.91252"
+       d="m 1522.546,333.23881 c -16.1725,-2.75755 -30.9341,5.52359 -44.5442,12.07893 -8.7646,3.93838 -18.1635,7.60882 -24.1792,14.87533 -5.94,5.73841 -7.9973,15.9276 -0.2806,21.24242 5.4914,2.76075 13.4363,7.97375 8.2778,14.25838 -2.9714,5.32331 -10.9891,7.01313 -12.2992,13.1085 -3.1956,8.49796 4.7619,16.17783 12.977,19.25645 6.0882,2.03439 11.7128,2.80096 12.5235,9.29875 6.205,9.76609 19.8664,11.34577 31.2125,12.19411 9.7402,0.44992 19.5702,1.81986 29.2109,-0.24661 10.8094,-1.707 23.853,-4.58685 32.772,2.99641 15.6902,8.48643 34.6617,10.30023 52.6732,11.07215 9.0633,0.0565 18.2264,0.95629 27.2325,0.12757 19.0215,-2.8175 38.4736,-3.75591 57.6479,-1.71264 20.0003,-0.095 34.4705,-16.69364 54.5799,-16.25915 16.5617,-3.33988 34.9614,-6.59382 46.6806,-18.5539 5.1087,-4.36517 4.7644,-11.66902 11.2913,-14.45037 5.0047,-6.16102 -1.9504,-14.45989 -9.1327,-15.99606 -6.9562,-0.32119 6.1874,-2.213 7.6003,-5.01905 7.1856,-4.59011 12.3194,-14.65891 5.5086,-21.34731 -15.3278,-12.80871 -38.5979,-13.59931 -54.0066,-26.36988 -12.828,-5.50852 -26.466,1.08434 -39.4755,2.33379 -6.4098,-1.26427 -9.1444,-10.50793 -17.1897,-11.5648 -10.3256,-3.81615 -21.7248,-3.95541 -32.7264,-4.03777 -10.6612,6.39721 -24.1874,3.94985 -35.4449,0.29467 -9.8245,-3.10334 -20.3035,-5.53554 -30.7402,-3.50688 -7.6932,0.53179 -16.4426,3.98461 -23.6512,1.19596 -10.1412,-7.44542 -24.0256,-3.72347 -35.9631,-4.54728 -8.2039,-2.01053 -15.6977,2.57428 -22.9322,5.36572 -2.8924,1.11665 -11.933,5.89786 -2.1995,3.91252"
        id="path4220"
        inkscape:connector-curvature="0" />
     <path
@@ -93,7 +93,7 @@
        sodipodi:nodetypes="cssccccscssccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1475.5653,923.4853 c 0.7213,-47.05507 14.7719,-91.55482 139.3276,-90.01485 93.3925,1.15467 118.2634,37.40956 120.3326,84.97275 1.4583,33.51868 -49.0677,64.54426 -129.3079,62.90076 -76.6942,-1.57085 -124.7435,-21.97449 -130.3523,-57.85866 z"
+       d="m 1443.0653,928.37812 c 0.9297,-43.08015 19.038,-83.82083 179.5661,-82.41095 120.3647,1.05713 152.4185,34.24943 155.0851,77.79478 1.8797,30.68723 -63.2386,59.09196 -166.6525,57.58729 -98.8439,-1.43815 -160.7699,-20.11822 -167.9987,-52.97112 z"
        id="path5026"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -105,7 +105,7 @@
        sodipodi:nodetypes="csssssc" />
     <path
        style="fill:#ffffff;stroke:none"
-       d="m 797.64506,2218.9795 c -7.92197,92.188 -119.94485,106.446 -171.65851,109.1706 -51.71361,2.7246 -189.25231,14.6142 -235.84928,-62.4983 -46.59698,-77.1125 -26.13055,-112.4852 4.17327,-150.0623 25.84201,-32.0447 86.59652,-47.5476 139.77831,-55.1369 66.03581,-9.4235 175.67023,12.4811 221.45615,51.9185 24.41713,21.0313 50.02209,14.4205 42.10006,106.6084 z"
+       d="m 797.5106,2219.218 c -8.64804,83.7198 -130.9379,96.6682 -187.39115,99.1425 -56.45321,2.4743 -206.59744,13.2718 -257.46506,-56.7574 -50.86763,-70.0293 -28.52543,-102.1527 4.55575,-136.2781 28.21046,-29.1012 94.53316,-43.1801 152.58911,-50.0722 72.08804,-8.5579 191.77055,11.3346 241.75278,47.1494 26.65498,19.0995 54.60666,13.0959 45.95857,96.8158 z"
        id="path3100"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zsssssz" />
@@ -131,19 +131,19 @@
          style="font-size:67.89629364px"
          x="1503.0696"
          y="262.59164"
-         id="tspan4252">Carrot !...</tspan></text>
+         id="tspan4252">Carrot! ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1625.382"
+       x="1642.882"
        y="408.19888"
        id="text4246-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1625.382"
+         x="1642.882"
          y="408.19888"
-         id="tspan4252-8">Reviens ...</tspan></text>
+         id="tspan4252-8">Kom terug ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -155,39 +155,39 @@
          style="font-size:45px"
          x="1532.5493"
          y="531.84924"
-         id="tspan4252-8-2">...Le dragon des</tspan><tspan
+         id="tspan4252-8-2">Een moerasdraak</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1532.5493"
          y="588.09924"
-         id="tspan4170">marais est réputé</tspan><tspan
+         id="tspan6386">is veel vriendelijker ...</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1532.5493"
          y="644.34924"
-         id="tspan4172">pour être plus docile</tspan><tspan
+         id="tspan4174">dat zeiden ze</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1532.5493"
          y="700.59924"
-         id="tspan4174">pourtant</tspan></text>
+         id="tspan6399">ten minste</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.4791708px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1607.5629"
-       y="896.56146"
+       x="1612.5629"
+       y="899.06146"
        id="text4246-1-3-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:35.54689407px"
-         x="1607.5629"
-         y="896.56146"
-         id="tspan4174-0">je l'ai pas</tspan><tspan
+         x="1612.5629"
+         y="899.06146"
+         id="tspan4212">dat heb ik</tspan><tspan
          sodipodi:role="line"
          style="font-size:35.54689407px"
-         x="1607.5629"
-         y="940.99506"
-         id="tspan4212">inventé...</tspan></text>
+         x="1612.5629"
+         y="943.49506"
+         id="tspan6403">niet verzonnen ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -199,33 +199,33 @@
          style="font-size:45px"
          x="447.2666"
          y="1921.0948"
-         id="tspan4252-1">Mmm... Pour le</tspan><tspan
+         id="tspan4262">Hmm ... Voor de</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="447.2666"
          y="1977.3448"
-         id="tspan4262">dragon-foudre...</tspan></text>
+         id="tspan6416">bliksemdraak ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="575.8111"
-       y="2145.9912"
+       x="558.3111"
+       y="2153.4912"
        id="text4246-10-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="575.8111"
-         y="2145.9912"
-         id="tspan4262-6">...Pas sure</tspan><tspan
+         x="558.3111"
+         y="2153.4912"
+         id="tspan4289">... weet ik niet</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="575.8111"
-         y="2202.2412"
-         id="tspan4287">que cette pince</tspan><tspan
+         x="558.3111"
+         y="2209.7412"
+         id="tspan6412">zeker of deze tang</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="575.8111"
-         y="2258.4912"
-         id="tspan4289">soit adaptée</tspan></text>
+         x="558.3111"
+         y="2265.9912"
+         id="tspan6420">geschikt is ...</tspan></text>
   </g>
 </svg>

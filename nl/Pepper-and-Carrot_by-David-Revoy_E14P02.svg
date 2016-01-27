@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E14P02.svg">
@@ -39,30 +39,30 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="1033"
+     inkscape:window-width="1592"
+     inkscape:window-height="831"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.46000002"
-     inkscape:cx="1034.8498"
-     inkscape:cy="737.47739"
-     inkscape:window-x="1920"
+     inkscape:zoom="0.5275"
+     inkscape:cx="1509.3353"
+     inkscape:cy="520.73897"
+     inkscape:window-x="1280"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer3" />
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/deevad/peppercarrot/webcomics/New/lang/fr/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
+       sodipodi:absref="/home/willem/Git/peppercarrot_ep14_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -88,9 +88,10 @@
        sodipodi:nodetypes="csccc" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 1338.0837,373.02704 c 8.4673,-30.55229 31.2689,-53.73323 56.0849,-69.20795 11.8098,-7.47095 25.3086,-12.94586 39.1219,-11.50576 13.7227,0.86044 27.1264,5.99789 41.0009,4.21344 16.871,-0.58935 34.0382,-3.1608 50.7155,0.51355 14.8255,4.00918 30.1,6.08557 45.3989,6.20599 10.7929,-2.54485 20.6691,4.23787 30.3078,8.29473 8.6531,4.38207 17.4915,8.97958 24.7596,15.75792 6.6961,9.5154 14.7138,17.79366 21.4881,27.22437 4.4326,5.15569 4.0067,12.27706 3.8025,18.86777 -0.5757,13.49636 -1.5506,27.2058 -5.1691,40.20841 -2.1654,8.25494 -10.1691,10.9868 -16.319,14.78008 -14.5516,8.00761 -30.0035,14.08004 -43.8912,23.50329 -13.7587,4.82518 -28.3804,2.56821 -42.4906,1.83903 -11.8234,-1.43631 -23.7171,-3.43918 -35.6421,-1.7689 -15.1777,1.22232 -30.3093,4.38722 -45.5413,3.98184 -19.0815,-2.78183 -37.3564,-9.63137 -55.848,-15.12588 -16.5903,-4.84289 -31.711,-13.94951 -46.2197,-23.69126 -7.75,-5.53198 -15.9543,-11.96214 -18.6894,-22.15692 -2.2421,-7.01999 -2.7704,-14.53671 -2.8697,-21.93375 z"
+       d="m 1308.5748,350.01819 c 9.0485,-30.55229 26.7953,-33.37925 53.3147,-48.85397 12.6204,-7.47095 41.7041,-10.29099 56.4656,-8.85089 14.6646,0.86044 28.9884,5.99789 43.8152,4.21344 18.0291,-0.58935 36.3746,-3.1608 54.1967,0.51355 15.8431,4.00918 32.166,6.08557 48.5151,6.20599 11.5337,-2.54485 22.0878,4.23787 32.3881,8.29473 9.2471,4.38207 18.6921,8.97958 26.4591,15.75792 7.1557,9.5154 15.7238,17.79366 22.9631,27.22437 4.7368,5.15569 4.2817,12.27706 4.0635,18.86777 -0.6152,13.49636 -1.6571,27.2058 -5.5239,40.20841 -2.3141,8.25494 -10.8671,10.9868 -17.4392,14.78008 -15.5504,8.00761 -32.0629,14.08004 -46.9039,23.50329 -14.7031,4.82518 -30.3284,2.56821 -45.4072,1.83903 -12.6349,-1.43631 -25.345,-3.43918 -38.0886,-1.7689 -16.2195,1.22232 -32.3897,4.38722 -48.6672,3.98184 -20.3913,-2.78183 -72.4445,-3.10963 -92.2053,-8.60414 -17.7291,-4.84289 -24.5951,-13.94951 -40.0997,-23.69126 -8.282,-5.53198 -7.058,-21.58123 -9.9808,-31.77601 0,0 2.2408,-34.44821 2.1347,-41.84525 z"
        id="path4365"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
     <path
        style="fill:#ffffff;stroke:none"
        d="m 1600.5998,539.46175 c -28.0754,-14.3263 -28.0705,-24.10879 -27.1393,-35.26758 0.931,-11.15875 3.0258,-21.20884 -1.8373,-26.59493 -4.8629,-5.38607 -13.8837,-9.08681 -20.965,-10.93985 -7.0813,-1.85304 -2.5775,-10.15393 -3.484,-17.79341 -0.9066,-7.63954 -20.1711,-44.64576 -20.1711,-44.64576 0,0 -10.2917,29.72026 -10.4833,39.70135 -0.1918,9.98106 -0.313,13.62987 0.7147,17.62055 1.0279,3.99076 5.0156,13.43659 11.7527,17.22018 6.7371,3.78364 14.9313,4.06179 20.6767,5.77151 5.7455,1.70964 6.255,10.50318 7.37,19.09418 1.1149,8.59099 3.3294,14.64819 14.8496,23.66417 9.8749,7.72832 28.7163,12.16959 28.7163,12.16959 z"
@@ -110,7 +111,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 930.7164,1415.9898 c 0.98919,-33.5988 13.78488,-48.879 63.20835,-54.035 50.53245,-5.2715 242.01715,-0.8543 278.81895,13.4829 27.6583,10.7749 34.3593,29.3632 31.1862,51.2876 -2.9097,20.1057 -40.2699,42.0863 -102.4624,46.1473 -62.6412,4.0905 -172.3605,0.1265 -205.98752,-8.464 -33.62695,-8.5902 -62.73031,-21.5849 -64.76358,-48.4188 z"
+       d="m 989.69782,1415.9898 c 0.67714,-33.5988 9.43628,-48.879 43.26858,-54.035 34.5914,-5.2715 165.6701,-0.8543 190.8623,13.4829 18.9332,10.7749 23.5203,29.3632 21.3482,51.2876 -1.9918,20.1057 -27.5663,42.0863 -70.1395,46.1473 -42.8803,4.0905 -117.9874,0.1265 -141.0064,-8.464 -23.019,-8.5902 -42.94133,-21.5849 -44.33318,-48.4188 z"
        id="path3986"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
@@ -122,7 +123,7 @@
        sodipodi:nodetypes="cccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 739.20991,2424.3616 c -29.06352,35.2799 -277.34709,76.4073 -365.59069,5.6391 -88.24358,-70.7682 -36.21401,-157.7543 13.62675,-185.8667 49.84064,-28.1127 197.09851,-60.1138 264.72255,-37.4597 67.62418,22.654 120.493,57.1477 124.74699,129.1359 1.73621,29.3813 -8.44195,53.2712 -37.5056,88.5514 z"
+       d="m 739.20991,2370.6058 c -29.06352,26.8646 -277.34709,58.1819 -365.59069,4.294 -88.24358,-53.888 -36.21401,-120.1254 13.62675,-141.5321 49.84064,-21.407 197.09851,-45.7749 264.72255,-28.5245 67.62418,17.2504 120.493,43.5163 124.74699,98.3332 1.73621,22.373 -8.44195,40.5645 -37.5056,67.4294 z"
        id="path4040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -171,48 +172,46 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi"
          x="581.71368"
          y="166.83237"
-         id="tspan4252">Cayenne! Thym! Vous pourriez aller</tspan><tspan
+         id="tspan4942">Cayenne! Thym! Willen jullie</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Lavi;-inkscape-font-specification:Lavi"
          x="581.71368"
          y="223.08237"
-         id="tspan4144">me chercher de la dent de dragon ?</tspan></text>
+         id="tspan4946">drakentandpoeder voor me zoeken?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="977.2323"
-       y="359.99969"
+       x="975.05841"
+       y="355.65186"
        id="text4246-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="977.2323"
-         y="359.99969"
-         id="tspan4144-1">Par <tspan
-   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:'Lavi Italic'"
-   id="tspan4178">ce</tspan> froid?!</tspan><tspan
+         x="975.05841"
+         y="355.65186"
+         id="tspan4144-1">In die kou?!</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="977.2323"
-         y="416.24969"
-         id="tspan4169">Non merci!</tspan></text>
+         x="975.05841"
+         y="411.90186"
+         id="tspan4169">Nee, bedankt!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1507.3965"
-       y="361.57327"
+       x="1480.8478"
+       y="357.1485"
        id="text4246-7-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1507.3965"
-         y="361.57327"
-         id="tspan4169-5">Mouais...</tspan><tspan
+         x="1480.8478"
+         y="357.1485"
+         id="tspan4196">Meh ...</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1507.3965"
-         y="417.82327"
-         id="tspan4196">Pareil...</tspan></text>
+         x="1480.8478"
+         y="413.3985"
+         id="tspan4950">Zeg dat wel ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -224,12 +223,12 @@
          style="font-size:45px"
          x="382.04089"
          y="1307.184"
-         id="tspan4196-8">Pas de soucis</tspan><tspan
+         id="tspan4221">Geen probleem,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="382.04089"
          y="1363.434"
-         id="tspan4221">je m'en charge!</tspan></text>
+         id="tspan4954">ik doe het wel!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.86764526px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -241,7 +240,7 @@
          style="font-size:37.00366974px"
          x="1115.5537"
          y="1427.5325"
-         id="tspan4221-0">Je reviens bientôt!</tspan></text>
+         id="tspan4221-0">Zo terug!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -253,51 +252,46 @@
          style="font-size:45px"
          x="376.62363"
          y="2182.0615"
-         id="tspan4221-0-2">&quot;Le froid&quot;, &quot;le froid&quot;!</tspan></text>
+         id="tspan4221-0-2">&quot;Die kou&quot;, &quot;die kou&quot;!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="552.49438"
-       y="2301.5308"
+       y="2288.126"
        id="text4246-7-6-4-6-4-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="552.49438"
-         y="2301.5308"
-         id="tspan4221-0-2-9">Non mais quelle</tspan><tspan
+         y="2288.126"
+         id="tspan4284">Ongelofelijk,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="552.49438"
-         y="2357.7808"
-         id="tspan4282">bande de poules</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="552.49438"
-         y="2414.0308"
-         id="tspan4284">mouillées !</tspan></text>
+         y="2344.376"
+         id="tspan4961">wat een watjes!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="2024.5713"
-       y="3193.8694"
+       x="2008.4855"
+       y="3198.446"
        id="text4246-7-6-4-6-4-5-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2024.5713"
-         y="3193.8694"
-         id="tspan4315">Une bonne tenaille,</tspan><tspan
+         x="2008.4855"
+         y="3198.446"
+         id="tspan4315">Een goeie nijptang,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2024.5713"
-         y="3250.1194"
-         id="tspan4319">quelques protections et à</tspan><tspan
+         x="2008.4855"
+         y="3254.696"
+         id="tspan4319">wat beschermende kleding</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="2024.5713"
-         y="3306.3694"
-         id="tspan4321">nous les dents de dragons !</tspan></text>
+         x="2008.4855"
+         y="3310.946"
+         id="tspan4321">en tadaa! Drakentanden!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.20829773px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -309,11 +303,11 @@
          style="font-size:60.78111267px;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="716.11877"
          y="1488.395"
-         id="tspan4208">Pepper</tspan><tspan
+         id="tspan4208">Pepper,</tspan><tspan
          sodipodi:role="line"
          style="font-size:60.78111267px;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="716.11877"
          y="1564.3715"
-         id="tspan4212">attends!</tspan></text>
+         id="tspan4212">wacht!</tspan></text>
   </g>
 </svg>
