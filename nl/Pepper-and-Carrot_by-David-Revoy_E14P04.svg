@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="3503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E14P04.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="835"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.40000001"
-     inkscape:cx="1152.5882"
-     inkscape:cy="952.37611"
-     inkscape:window-x="1280"
-     inkscape:window-y="0"
+     inkscape:zoom="0.61640627"
+     inkscape:cx="1344.4627"
+     inkscape:cy="2708.9399"
+     inkscape:window-x="-5"
+     inkscape:window-y="-10"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="false" />
@@ -57,13 +57,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/willem/Git/peppercarrot_ep14_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P04.png"
+       sodipodi:absref="/home/ruben/Documents/pepperandcarrot/peppercarrot_ep14_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -170,7 +170,7 @@
          style="font-size:45px"
          x="1532.5493"
          y="700.59924"
-         id="tspan6399">ten minste</tspan></text>
+         id="tspan6399">tenminste</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.4791708px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
