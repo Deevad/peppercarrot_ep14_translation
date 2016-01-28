@@ -17,6 +17,7 @@ License
 * French: David Revoy
 * Mexicano: RJ Quiralta
 * Russian: Denis "uncle Night" Prisukhin
+* Ukrainian: Denis "uncle Night" Prisukhin
 * Vietnamese: Binh Pham
 
 ## Artwork:
