@@ -23,6 +23,8 @@ License
 
 * French: David Revoy
 
+* Indonesian: Bonaventura Aditya Perdana
+
 * Mexicano: RJ Quiralta
 
 * Russian: Denis "uncle Night" Prisukhin
