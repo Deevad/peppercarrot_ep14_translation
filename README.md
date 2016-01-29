@@ -20,6 +20,7 @@ License
 * Russian: Denis "uncle Night" Prisukhin
 * Ukrainian: Denis "uncle Night" Prisukhin
 * Vietnamese: Binh Pham
+* German: Philipp Hemmer
 
 ## Artwork:
 
