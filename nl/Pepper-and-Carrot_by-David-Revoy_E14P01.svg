@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E14P01-test.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5841"
+       x="-0.0028565165"
+       width="1.005713"
+       y="-0.017347847"
+       height="1.0346957">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.3401381"
+         id="feGaussianBlur5843" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4777"
+       x="-0.010849841"
+       width="1.0216997"
+       y="-0.052787544"
+       height="1.1055751">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.66607649"
+         id="feGaussianBlur4779" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4781"
+       x="-0.010545129"
+       width="1.0210903"
+       y="-0.061422802"
+       height="1.1228456">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.46603759"
+         id="feGaussianBlur4783" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813"
+       x="-0.066799245"
+       width="1.1335985"
+       y="-0.093713716"
+       height="1.1874274">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.88793856"
+         id="feGaussianBlur4815" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4833"
+       x="-0.012663071"
+       width="1.0253261"
+       y="-0.031112596"
+       height="1.0622252">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52769825"
+         id="feGaussianBlur4835" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="997"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="1.1169188"
+     inkscape:cx="2105.9678"
+     inkscape:cy="517.22687"
+     inkscape:window-x="-5"
+     inkscape:window-y="-10"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/ruben/Documents/pepperandcarrot/peppercarrot_ep14_translation/nl/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 832.74558,1279.4495 c -3.60762,50.0751 -133.78503,79.7857 -195.81643,84.1532 -62.03134,4.3674 -226.65311,19.6535 -288.68444,-39.3074 -62.0313,-58.961 -40.12679,-87.7984 -6.55225,-118.7996 28.63118,-26.4368 100.5583,-41.2921 163.98145,-49.5679 78.75252,-10.276 177.63969,-3.3209 239.1487,17.8821 62.34612,21.4917 91.53057,55.5645 87.92297,105.6396 z"
+       id="path3100"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 634.76889,1431.7084 c -59.38618,-45.485 -66.62733,-104.1493 -75.31163,-162.4394 -8.6843,-58.2901 36.86172,23.5669 36.86172,23.5669 0,0 -13.89559,45.9588 38.44991,138.8725 z"
+       id="path5002"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 646.68457,1965.8355 c 11.16359,-51.8349 54.5481,-83.7307 93.034,-100.2046 41.17798,-17.6263 276.37943,-17.1059 335.24193,-18.9248 58.8626,-1.8187 204.4426,4.609 278.5283,36.4374 74.0856,31.8286 81.2408,64.2976 82.2557,88.8509 1.015,24.5533 -5.3106,94.7416 -102.5853,110.0355 -90.4719,14.2244 -300.8671,20.7092 -354.65521,17.0716 -53.78822,-3.6375 -235.88833,-0.401 -286.63184,-43.1419 -50.74373,-42.7411 -44.1727,-59.2051 -45.18758,-90.1241 z"
+       id="path5909"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1063.2616,1768.5081 c 21.2693,36.567 26.6107,50.5999 -5.1849,87.5544 -31.7958,36.9545 -16.0406,47.6998 -16.0406,47.6998 l 33.4558,-10.2031 c 0,0 61.6163,-83.2265 -12.2303,-125.0511 z"
+       id="path3072"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 152.5216,2253.6155 c -12.10838,-100.2196 54.69729,-136.9169 235.02719,-141.6824 180.32989,-4.7656 226.3446,51.2942 241.28317,86.0453 14.93858,34.7513 -8.63529,124.2147 -117.87237,168.8421 -109.23708,44.6273 -298.85999,-0.5489 -323.77857,-27.9068 -24.91858,-27.3579 -31.89224,-59.0841 -34.65942,-85.2982 z"
+       id="path3238"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 421.82266,2372.4517 c 43.16476,-55.1707 113.56707,-56.072 247.87463,-53.2299 134.30761,2.8423 189.34329,19.5964 207.42321,33.0968 18.07974,13.5002 56.41666,79.974 44.52474,133.7162 -16.78207,75.8419 -77.89623,110.9271 -209.621,106.6639 -131.72479,-4.2634 -219.83267,-14.983 -242.59206,-20.06 -64.7417,-14.4423 -90.77428,-145.0163 -47.60952,-200.187 z"
+       id="path4530"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 981.82224,2641.8592 c -46.13631,1.3713 -53.05724,-10.9617 -59.76558,-25.6705 -6.70836,-14.7085 -11.13997,-28.8252 -21.18818,-32.2485 -10.04827,-3.4234 -24.23302,-1.8455 -34.62304,0.7193 -10.39012,2.5649 -15.49209,-6.014 -22.06406,-15.0154 -6.57207,-9.0013 -52.47649,-47.3128 -52.47649,-47.3128 0,0 7.85298,44.5808 14.67524,57.2935 6.8223,12.7127 9.2507,17.3955 13.39424,21.714 4.14367,4.3185 15.94482,13.4645 27.2607,13.5712 11.31588,0.1069 22.0172,-5.2129 30.59337,-7.0338 8.57612,-1.8211 20.61043,4.7925 28.1235,14.849 7.51299,10.0563 28.01564,30.2967 46.29113,28.5673 18.27545,-1.7295 29.77905,-9.4337 29.77905,-9.4337 z"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscssssssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="opacity:1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="568.60315"
+       y="1250.8915"
+       id="text4246"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="568.60315"
+         y="1250.8915"
+         id="tspan4252">Goed, goed, goed!</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="568.60315"
+         y="1307.1415"
+         id="tspan4144">De vakantie is voorbij.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="1037.4011"
+       y="1925.061"
+       id="text4246-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1037.4011"
+         y="1925.061"
+         id="tspan4144-7">Laten we beginnen met een</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1037.4011"
+         y="1981.311"
+         id="tspan4169">les over antieke toverdrankjes</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1037.4011"
+         y="2037.561"
+         id="tspan4171">en hun voornaamste ingrediënten.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="379.30972"
+       y="2204.6047"
+       id="text4246-7-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="379.30972"
+         y="2204.6047"
+         id="tspan4171-6">Mmm... Verdraaid!</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="379.30972"
+         y="2260.8547"
+         id="tspan4182">Er is geen draken-</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="379.30972"
+         y="2317.1047"
+         id="tspan4183">tandpoeder meer.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="663.13135"
+       y="2382.7573"
+       id="text4246-7-9-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="663.13135"
+         y="2382.7573"
+         id="tspan4182-0">En het heeft</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="663.13135"
+         y="2439.0073"
+         id="tspan4213">geen zin aan deze</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="663.13135"
+         y="2495.2573"
+         id="tspan4215">les te beginnen zonder</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="663.13135"
+         y="2551.5073"
+         id="tspan4217">dat ingrediënt ...</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4664"
+       id="use4694"
+       transform="matrix(0.2413678,0.96175958,-1.2866298,0.18042315,4666.0569,751.999)"
+       width="2481"
+       height="3503"
+       style="" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4664"
+       id="use4694-6"
+       transform="matrix(0.2413678,0.96175958,-1.2866298,0.18042315,4666.0569,751.999)"
+       width="2481"
+       height="3503"
+       style="" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4664"
+       id="use4694-3"
+       transform="matrix(0.2413678,0.96175958,-1.2866298,0.18042315,4666.0569,751.999)"
+       width="2481"
+       height="3503"
+       style="" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178-6-5-9-0-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.76241112px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.81800022;fill:#412525;fill-opacity:1;stroke:none;filter:url(#filter5841)"
+       xml:space="preserve"
+       y="3129.8394"
+       x="1318.7137"
+       transform="matrix(-0.56764987,0.65169882,-1.1266344,0.042607,6084.6282,2010.559)"><tspan
+         y="3129.8394"
+         x="1318.7137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#412525;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan4293-1-6-3-5">Drakentand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.86254311px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.64499996;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4813)"
+       x="568.25775"
+       y="1060.067"
+       id="text4191"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4193"
+         x="568.25775"
+         y="1060.067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento">33</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.26206207px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.744;fill:#221415;fill-opacity:1;stroke:#502a2a;stroke-width:0.99138767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4833)"
+       x="705.80756"
+       y="803.86755"
+       id="text4243"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.79713115,0,0,1.0064892,142.26315,-6.0753378)"><tspan
+         sodipodi:role="line"
+         id="tspan4245"
+         x="705.80756"
+         y="803.86755"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;stroke:#502a2a;stroke-width:0.99138767;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">PRIVAAT</tspan><tspan
+         sodipodi:role="line"
+         x="705.80756"
+         y="826.69513"
+         id="tspan4247"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;stroke:#502a2a;stroke-width:0.99138767;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">EIGENDOM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.94732857px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.744;fill:#241516;fill-opacity:1;stroke:#5a2c2c;stroke-width:0.70689344;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4777)"
+       x="632.77014"
+       y="779.69183"
+       id="text4357"
+       sodipodi:linespacing="125%"
+       transform="matrix(1.0198262,0,0,1.2970211,60.847662,-227.78677)"><tspan
+         sodipodi:role="line"
+         id="tspan4359"
+         x="632.77014"
+         y="779.69183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.94732857px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#5a2c2c;stroke-width:0.70689344;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">HEKS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.29494858px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:0.58800001;fill:#2d1a1c;fill-opacity:1;stroke:#3e1b1b;stroke-width:0.95986927;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4781)"
+       x="653.07074"
+       y="748.37018"
+       id="text4385"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.79455016,0,0,1.0126534,186.47367,-10.199364)"><tspan
+         sodipodi:role="line"
+         id="tspan4387"
+         x="653.07074"
+         y="748.37018"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.29494858px;line-height:125%;font-family:Fondamento;-inkscape-font-specification:'Fondamento, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke:#3e1b1b;stroke-width:0.95986927;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">GEVAAR</tspan></text>
+  </g>
+</svg>

@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r"
    width="2481"
    height="663"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E14P00.svg">
@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="837"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.60944264"
      inkscape:cx="1170.9238"
      inkscape:cy="204.08709"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-x="1600"
+     inkscape:window-y="30"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/alex/Documents/Code/Pepper_Carrot/peppercarrot_ep14_translation/en/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P00.png"
+       sodipodi:absref="/home/nightmare/Projects/peppercarrot/peppercarrot_ep14_translation/ru/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P00.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P00.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="663"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -76,15 +76,39 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b1100;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;font-family:Arial;-inkscape-font-specification:Arial"
-       x="748.98328"
-       y="582.47577"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2b1100;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="863.84235"
+       y="608.72925"
        id="text4178"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4180"
-         style="font-size:72.5px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2b1100;stroke:none;font-family:Lavi;-inkscape-font-specification:Lavi"
-         x="748.98328"
-         y="582.47577">Episode 14: The Dragon's Tooth</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.25px;font-family:Neucha;-inkscape-font-specification:Neucha;fill:#2b1100;stroke:none"
+         x="863.84235"
+         y="608.72925">Эпизод 14: Драконий Зуб</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2b1100;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="647.36871"
+       y="268.83929"
+       id="text4178-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4180-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.25px;font-family:Neucha;-inkscape-font-specification:Neucha;fill:#2b1100;stroke:none"
+         x="647.36871"
+         y="268.83929">Перчинка</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#2b1100;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1560.7954"
+       y="262.04092"
+       id="text4178-4-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4180-0-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:81.25px;font-family:Neucha;-inkscape-font-specification:Neucha;fill:#2b1100;stroke:none"
+         x="1560.7954"
+         y="262.04092">Морквик</tspan></text>
   </g>
 </svg>

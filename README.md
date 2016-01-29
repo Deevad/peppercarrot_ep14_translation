@@ -13,9 +13,12 @@ License
 
 ## Translators and correctors:
 
+* Dutch: Midgard and Willem Sonke
 * English: Alex Gryson
 * French: David Revoy
 * Mexicano: RJ Quiralta
+* Russian: Denis "uncle Night" Prisukhin
+* Ukrainian: Denis "uncle Night" Prisukhin
 * Vietnamese: Binh Pham
 
 ## Artwork:
