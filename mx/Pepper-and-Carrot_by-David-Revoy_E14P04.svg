@@ -45,11 +45,11 @@
      showgrid="false"
      inkscape:zoom="0.40000001"
      inkscape:cx="1425.0881"
-     inkscape:cy="109.35662"
-     inkscape:window-x="695"
-     inkscape:window-y="423"
+     inkscape:cy="2709.3566"
+     inkscape:window-x="-4"
+     inkscape:window-y="427"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep14_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P04.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P04.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -131,7 +131,7 @@
          style="font-size:67.89629364px"
          x="1503.0696"
          y="262.59164"
-         id="tspan4252">¡Carrot !...</tspan></text>
+         id="tspan4252">¡ Carrot !...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -170,24 +170,29 @@
          style="font-size:45px"
          x="1532.5493"
          y="700.59924"
-         id="tspan3376">dociles.</tspan></text>
+         id="tspan3376">dóciles.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.4791708px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1607.5629"
-       y="896.56146"
+       x="1605.0629"
+       y="871.56146"
        id="text4246-1-3-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:35.54689407px"
-         x="1607.5629"
-         y="896.56146"
+         x="1605.0629"
+         y="871.56146"
          id="tspan4212">no estoy</tspan><tspan
          sodipodi:role="line"
          style="font-size:35.54689407px"
-         x="1607.5629"
-         y="940.99506"
-         id="tspan3380">inventando...</tspan></text>
+         x="1605.0629"
+         y="915.99506"
+         id="tspan3380">inventando</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:35.54689407px"
+         x="1605.0629"
+         y="960.42871"
+         id="tspan3870">cosas...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -199,7 +204,7 @@
          style="font-size:45px"
          x="420.17676"
          y="1908.5948"
-         id="tspan4262">Mmm... Para el </tspan><tspan
+         id="tspan4262">Umm... Para éste </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="412.2666"

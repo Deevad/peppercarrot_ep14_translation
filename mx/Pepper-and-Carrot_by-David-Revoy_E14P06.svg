@@ -376,11 +376,11 @@
      showgrid="false"
      inkscape:zoom="0.37405949"
      inkscape:cx="1364.5988"
-     inkscape:cy="467.65691"
-     inkscape:window-x="695"
-     inkscape:window-y="408"
+     inkscape:cy="788.4615"
+     inkscape:window-x="-4"
+     inkscape:window-y="412"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer3" />
+     inkscape:current-layer="layer1" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -389,11 +389,11 @@
     <image
        sodipodi:absref="/home/rjq/Arts and Craft/2015/Translation P&amp;C/GIT/peppercarrot_ep14_translation/mx/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -564,7 +564,7 @@
          style="font-size:45px"
          x="691.47162"
          y="183.85486"
-         id="tspan3432">Ahora si, Te </tspan><tspan
+         id="tspan3432">Ahora si, te </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="683.56146"
@@ -586,7 +586,7 @@
          style="font-size:45px"
          x="952.39032"
          y="415.69406"
-         id="tspan3443">un ciento de Diente de</tspan><tspan
+         id="tspan3443">un ciento de Dientes de</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="952.39032"
@@ -625,7 +625,7 @@
          style="font-size:56.25px"
          x="1160.9049"
          y="2867.031"
-         id="tspan3449">hierba!</tspan></text>
+         id="tspan3449">hierba !</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3451"
@@ -636,5 +636,5 @@
            height="17.013231"
            x="1145.5576"
            y="2803.5671" /></flowRegion><flowPara
-         id="flowPara3457"></flowPara></flowRoot>  </g>
+         id="flowPara3457" /></flowRoot>  </g>
 </svg>
