@@ -13,13 +13,24 @@ License
 
 ## Translators and correctors:
 
+* Català: Juan José Segura
+
+* Chinese: Ran Zhuang
+
 * Dutch: Midgard and Willem Sonke
+
 * English: Alex Gryson
+
 * French: David Revoy
+
 * Mexicano: RJ Quiralta
+
 * Russian: Denis "uncle Night" Prisukhin
+
 * Ukrainian: Denis "uncle Night" Prisukhin
+
 * Vietnamese: Binh Pham
+
 
 ## Artwork:
 
