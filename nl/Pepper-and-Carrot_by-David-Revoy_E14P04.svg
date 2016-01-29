@@ -43,13 +43,13 @@
      inkscape:window-height="997"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.61640627"
-     inkscape:cx="1344.4627"
-     inkscape:cy="2708.9399"
+     inkscape:zoom="0.61449765"
+     inkscape:cx="1565.159"
+     inkscape:cy="2682.2838"
      inkscape:window-x="-5"
      inkscape:window-y="-10"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -93,7 +93,7 @@
        sodipodi:nodetypes="cssccccscssccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1443.0653,928.37812 c 0.9297,-43.08015 19.038,-83.82083 179.5661,-82.41095 120.3647,1.05713 152.4185,34.24943 155.0851,77.79478 1.8797,30.68723 -63.2386,59.09196 -166.6525,57.58729 -98.8439,-1.43815 -160.7699,-20.11822 -167.9987,-52.97112 z"
+       d="m 1434.9286,928.37812 c 0.9749,-43.08015 19.9636,-83.82083 188.297,-82.41095 126.2171,1.05713 159.8294,34.24943 162.6257,77.79478 1.9711,30.68723 -66.3134,59.09196 -174.7555,57.58729 -103.65,-1.43815 -168.5869,-20.11822 -176.1672,-52.97112 z"
        id="path5026"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssc" />
@@ -123,15 +123,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.10567665px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1503.0696"
-       y="262.59164"
+       x="1501.0696"
+       y="270.59164"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:67.89629364px"
-         x="1503.0696"
-         y="262.59164"
-         id="tspan4252">Carrot! ...</tspan></text>
+         x="1501.0696"
+         y="270.59164"
+         id="tspan4252">Carrot!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -160,17 +160,17 @@
          style="font-size:45px"
          x="1532.5493"
          y="588.09924"
-         id="tspan6386">is veel vriendelijker ...</tspan><tspan
+         id="tspan6386">is veel vriendelijker.</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1532.5493"
          y="644.34924"
-         id="tspan4174">dat zeiden ze</tspan><tspan
+         id="tspan4174">Dat zeggen ze</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1532.5493"
          y="700.59924"
-         id="tspan6399">tenminste</tspan></text>
+         id="tspan6399">tenminste ...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.4791708px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -182,7 +182,7 @@
          style="font-size:35.54689407px"
          x="1612.5629"
          y="899.06146"
-         id="tspan4212">dat heb ik</tspan><tspan
+         id="tspan4212">... ík heb dat</tspan><tspan
          sodipodi:role="line"
          style="font-size:35.54689407px"
          x="1612.5629"
