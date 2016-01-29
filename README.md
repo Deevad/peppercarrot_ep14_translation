@@ -31,6 +31,8 @@ License
 
 * Russian: Denis "uncle Night" Prisukhin
 
+* Slovak: talime
+
 * Spanish: TheFaico
 
 * Ukrainian: Denis "uncle Night" Prisukhin
