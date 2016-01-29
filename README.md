@@ -25,6 +25,8 @@ License
 
 * Indonesian: Bonaventura Aditya Perdana
 
+* Japanese: guruguru
+
 * Mexicano: RJ Quiralta
 
 * Russian: Denis "uncle Night" Prisukhin
