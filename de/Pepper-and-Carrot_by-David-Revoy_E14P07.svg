@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    width="2481"
    height="4503"
    sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E14P07.svg">
@@ -44,8 +44,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.37102026"
-     inkscape:cx="919.6195"
-     inkscape:cy="-20.389698"
+     inkscape:cx="1217.4469"
+     inkscape:cy="3955.1344"
      inkscape:window-x="1974"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -66,15 +66,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep14_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P07.png"
+       sodipodi:absref="/home/deevad/peppercarrot/webcomics/ep14_The-Dragon-s-Tooth/lang/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P07.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="2481.4438"
        height="4504.5391"
-       width="2481.4438" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -114,7 +114,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:Lavi;-inkscape-font-specification:Lavi">http://www.patreon.com/davidrevoy</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.71540833px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.71540833px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
        x="1240.9395"
        y="-882.94403"
        id="text4213-0"
@@ -122,23 +122,23 @@
          sodipodi:role="line"
          x="1240.9395"
          y="-882.94403"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
          id="tspan4219-3" /><tspan
          sodipodi:role="line"
          x="1240.9395"
          y="-820.44403"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
          id="tspan3357">Pepper&amp;Carrot ist komplett frei, Open Source und wird</tspan><tspan
          sodipodi:role="line"
          x="1240.9395"
          y="-757.94403"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
          id="tspan3359">durch die Leser unterstützt und finanziert.</tspan><tspan
          sodipodi:role="line"
          x="1240.9395"
          y="-695.44403"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi;"
-         id="tspan3361">Für diese Episode geht der Dank an die XXX Förderer:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
+         id="tspan3361">Für diese Episode geht der Dank an die 671 Förderer:</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot3027-8-8-2"
