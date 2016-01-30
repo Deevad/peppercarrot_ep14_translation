@@ -35,6 +35,8 @@ License
 
 * Spanish: TheFaico
 
+* Swedish: Mikael Olofsson
+
 * Ukrainian: Denis "uncle Night" Prisukhin
 
 * Vietnamese: Binh Pham
