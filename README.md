@@ -29,6 +29,8 @@ License
 
 * Mexicano: RJ Quiralta
 
+* Polish: Sölve Svartskogen
+
 * Russian: Denis "uncle Night" Prisukhin
 
 * Slovak: talime
@@ -65,7 +67,7 @@ This folder contains all ready to use built pages in all available language :
 
 * Long strip version in a long single picture (lowres/single-page, Jpeg 92% quality)
 
-* Krita original sources files (zip folder, zipped kra files) 
+* Krita original sources files (zip folder, zipped kra files)
 
 
 ## Info:
