@@ -23,6 +23,8 @@ License
 
 * French: David Revoy
 
+* Italian: Carlo Gandolfi
+
 * Indonesian: Bonaventura Aditya Perdana
 
 * Japanese: guruguru
@@ -42,6 +44,7 @@ License
 * Ukrainian: Denis "uncle Night" Prisukhin
 
 * Vietnamese: Binh Pham
+
 * German: Philipp Hemmer
 
 
