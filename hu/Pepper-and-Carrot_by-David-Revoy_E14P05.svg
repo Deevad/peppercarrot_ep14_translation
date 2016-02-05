@@ -207,11 +207,11 @@
      showgrid="false"
      inkscape:zoom="0.46000001"
      inkscape:cx="1148.484"
-     inkscape:cy="764.78356"
+     inkscape:cy="539.34494"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer3" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
@@ -220,11 +220,11 @@
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep14_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -232,7 +232,7 @@
      inkscape:label="speechbubbles">
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 363.71908,254.90407 c 0,-45.11245 -5.63906,-78.94678 22.55622,-82.70615 28.19528,-3.75937 90.22489,-6.5789 105.26237,0 19.73669,-3.75937 60.14992,4.69921 67.66866,9.39842 7.51875,4.69922 16.91717,70.4882 15.03749,86.46552 -1.87969,15.97732 -10.33827,36.65386 -25.37575,39.47339 -15.03749,2.81953 -62.02961,4.69921 -74.24757,5.63905 -12.21795,0.93985 -60.14992,3.75937 -74.24756,-3.75937 -14.09764,-7.51874 -17.85701,-20.67653 -17.85701,-20.67653 0,0 -21.61638,-7.51874 -18.79685,-33.83433 z"
+       d="m 352.89689,254.90407 c 0,-45.11245 -6.21942,-78.94678 24.87766,-82.70615 31.09707,-3.75937 99.51063,-6.5789 116.09573,0 21.76794,-3.75937 66.34041,4.69921 74.63296,9.39842 8.29256,4.69922 18.65825,70.4882 16.58512,86.46552 -2.07315,15.97732 -11.40226,36.65386 -27.98737,39.47339 -16.58511,2.81953 -68.41355,4.69921 -81.88896,5.63905 -13.47539,0.93985 -66.34041,3.75937 -81.88895,-3.75937 -15.54853,-7.51874 -19.69481,-20.67653 -19.69481,-20.67653 0,0 -23.84109,-7.51874 -20.73138,-33.83433 z"
        id="path4440"
        inkscape:connector-curvature="0" />
     <path

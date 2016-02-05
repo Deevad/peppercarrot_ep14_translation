@@ -45,11 +45,11 @@
      showgrid="false"
      inkscape:zoom="0.43016843"
      inkscape:cx="1131.8427"
-     inkscape:cy="715.56688"
+     inkscape:cy="538.63651"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -59,11 +59,11 @@
     <image
        sodipodi:absref="E:\Projects\Pepper&amp;Carrot\peppercarrot_ep14_translation\hu\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
        xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -147,7 +147,7 @@
        sodipodi:nodetypes="csscc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 597.74325,1413.7348 c -6.86809,22.2136 -45.60512,24.0763 -59.86529,19.561 28.7452,24.85 27.74308,40.2897 -11.28482,42.687 65.45045,44.7862 11.96523,38.009 1.41564,49.3655 51.39071,15.4343 28.39798,34.6427 19.24864,53.7643 59.06856,0.6568 30.6249,12.831 15.05463,39.3748 16.69126,-11.7866 60.69681,-45.7392 57.40177,8.8459 31.81742,-30.3113 67.90109,-44.0496 89.86638,3.8548 15.74211,-32.6147 31.97435,-50.6979 60.3207,-3.2003 -7.74609,-51.1315 43.96255,-36.6815 79.22082,-22.3817 -8.37229,-13.6675 5.79767,-49.1497 40.29898,-33.2327 -23.43633,-22.3492 5.91492,-25.5401 28.75932,-31.7186 -30.35658,-9.1431 -35.9512,-18.574 20.41417,-28.7231 -42.89073,-0.9817 -82.88665,-2.993 -32.56647,-37.6044 -15.78684,-0.8375 -53.24276,28.0432 -35.77933,-56.4768 -27.14636,27.0578 -56.10907,41.9918 -92.43092,-14.6874 -17.18935,28.3158 -47.00388,42.3276 -59.97466,6.9589 -4.66197,15.0783 -23.99298,20.749 -40.40356,21.4367 -6.346,-5.9894 -12.89116,-14.1245 -19.72133,-24.7828 -11.16336,22.3796 -27.86253,37.4938 -59.97467,6.9589 z"
+       d="m 597.74325,1403.1892 c -6.86809,24.4782 -45.60512,26.5308 -59.86529,21.5552 28.7452,27.3834 27.74308,44.3972 -11.28482,47.0389 65.45045,49.352 11.96523,41.8839 1.41564,54.3982 51.39071,17.0078 28.39798,38.1744 19.24864,59.2455 59.06856,0.7237 30.6249,14.1391 15.05463,43.3889 16.69126,-12.9882 60.69681,-50.4022 57.40177,9.7478 31.81742,-33.4015 67.90109,-48.5404 89.86638,4.2478 15.74211,-35.9398 31.97435,-55.8665 60.3207,-3.5266 -7.74609,-56.3443 43.96255,-40.4211 79.22082,-24.6635 -8.37229,-15.0609 5.79767,-54.1604 40.29898,-36.6207 -23.43633,-24.6276 5.91492,-28.1439 28.75932,-34.9522 -30.35658,-10.0753 -35.9512,-20.4676 20.41417,-31.6514 -42.89073,-1.0818 -82.88665,-3.2981 -32.56647,-41.4381 -15.78684,-0.9229 -53.24276,30.9021 -35.77933,-62.2345 -27.14636,29.8163 -56.10907,46.2728 -92.43092,-16.1848 -17.18935,31.2026 -47.00388,46.6429 -59.97466,7.6684 -4.66197,16.6155 -23.99298,22.8643 -40.40356,23.6221 -6.346,-6.6 -12.89116,-15.5644 -19.72133,-27.3093 -11.16336,24.6611 -27.86253,41.3162 -59.97467,7.6683 z"
        id="path3549-3-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccc" />
@@ -307,18 +307,18 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.20829773px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="716.11877"
-       y="1488.395"
+       y="1494.395"
        id="text4246-7-6-4-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:60.78111267px;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="716.11877"
-         y="1488.395"
+         y="1494.395"
          id="tspan4208">Paprika,</tspan><tspan
          sodipodi:role="line"
          style="font-size:60.78111267px;stroke:#000000;stroke-width:1.29999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="716.11877"
-         y="1564.3715"
+         y="1570.3715"
          id="tspan4212">várj!</tspan></text>
   </g>
 </svg>
