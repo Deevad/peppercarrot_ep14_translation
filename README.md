@@ -23,6 +23,8 @@ License
 
 * French: David Revoy
 
+* Hungarian: Halász Gábor "Hali"
+
 * Italian: Carlo Gandolfi
 
 * Indonesian: Bonaventura Aditya Perdana
