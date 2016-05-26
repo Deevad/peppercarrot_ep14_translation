@@ -201,14 +201,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-width="1151"
+     inkscape:window-height="937"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
      inkscape:cx="1148.484"
-     inkscape:cy="2747.8156"
-     inkscape:window-x="-8"
+     inkscape:cy="416.95748"
+     inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -218,8 +218,8 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep14_translation\pt\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
+       sodipodi:absref="F:\peppercarrot_ep14_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
        width="2481"
        height="3503"
        id="image10"
@@ -292,7 +292,7 @@
          style="font-size:63.44648361px"
          x="473.69452"
          y="261.18845"
-         id="tspan4252">Ok.</tspan></text>
+         id="tspan4252">i i'a</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -304,36 +304,46 @@
          style="font-size:45px"
          x="773.52966"
          y="352.78668"
-         id="tspan3537">É muito</tspan><tspan
+         id="tspan3537">zildukse</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="773.52966"
          y="409.03668"
-         id="tspan3696">difícil...</tspan></text>
+         id="tspan3832">pluja</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="1200.1364"
-       y="433.05008"
+       y="405.05008"
        id="text4246-4-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1200.1364"
-         y="433.05008"
-         id="tspan4162-1">... eu desisto.</tspan></text>
+         y="405.05008"
+         id="tspan4162-1">i ca'e mi</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="1200.1364"
+         y="461.30008"
+         id="tspan3834">ba'o troci</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="771.69177"
-       y="1211.0106"
+       y="1207.0106"
        id="text4246-4-9-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="771.69177"
-         y="1211.0106"
-         id="tspan3541">A Pepper nunca desiste!</tspan></text>
+         y="1207.0106"
+         id="tspan3541">i la peper no roi</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px"
+         x="771.69177"
+         y="1263.2606"
+         id="tspan3836">co'u troci</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.78443336px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -345,7 +355,7 @@
          style="font-size:55.44162369px;stroke:#000000;stroke-width:2.18458223;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          x="767.7915"
          y="1158.7135"
-         id="tspan4252-1">Não!</tspan></text>
+         id="tspan4252-1">i ca'e na ku</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:url(#linearGradient4238);fill-opacity:1;fill-rule:nonzero;stroke:#854611;stroke-width:0.07121496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7);enable-background:accumulate"
@@ -353,18 +363,14 @@
        y="1742.2045"
        id="text4251"
        sodipodi:linespacing="125%"
-       transform="matrix(1.0496631,-0.00680912,-0.72183224,1.8831671,521.49009,-1337.8832)"><tspan
+       transform="matrix(1.0496631,-0.00680912,-0.72183224,1.8831671,603.49009,-1333.8832)"><tspan
          sodipodi:role="line"
          id="tspan4253"
          x="1705.2566"
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
            id="tspan4365"
-           style="font-size:45.57711792px;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">CÓcóri-cóóoooo ! </tspan><tspan
-           id="tspan4311"
-           style="font-size:55.8440094px;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">! </tspan><tspan
-           id="tspan4369"
-           style="font-size:72.51364136px;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">!</tspan></tspan></text>
+           style="font-size:45.57711792px;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">kukuriku</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -373,10 +379,10 @@
        id="text4246-4-9-8-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:40px"
+         style="font-size:45px"
          x="310.95746"
          y="1886.489"
-         id="tspan4205-3">No dia seguinte...</tspan></text>
+         id="tspan4205-3">i bavlamdei</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.40283489px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -390,7 +396,7 @@
          x="-376.50845"
          y="2795.0046"
          id="tspan4205-3-3"><tspan
-   style="font-size:121.45326996px"
-   id="tspan4438">!</tspan>!</tspan></text>
+           style="font-size:121.45326996px"
+           id="tspan4438">ii</tspan></tspan></text>
   </g>
 </svg>
