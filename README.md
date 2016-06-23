@@ -23,7 +23,7 @@ License
 
 * Finnish: Kari Lehto
 
-* French: David Revoy and Xavier Dolques
+* French: David Revoy, corrections: Xavier Dolques
 
 * Hungarian: Halász Gábor "Hali"
 
