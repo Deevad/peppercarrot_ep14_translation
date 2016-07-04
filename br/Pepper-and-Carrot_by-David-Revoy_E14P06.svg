@@ -371,12 +371,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1137"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.526013"
-     inkscape:cx="949.39752"
-     inkscape:cy="767.35135"
+     inkscape:zoom="0.52900001"
+     inkscape:cx="1370.8483"
+     inkscape:cy="618.30846"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -387,13 +387,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\Users\Alexandre\GitHub\peppercarrot_ep14_translation\pt\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
-       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       sodipodi:absref="D:\Pepper&amp;Carrot\peppercarrot_ep14_translation-master\br\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -401,13 +401,13 @@
      inkscape:label="speechbubbles">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 965.66286,214.11789 c -8.08978,-64.08178 -93.62466,-110.79162 -313.61505,-98.25168 -117.83868,6.71702 -251.70255,11.24632 -241.22016,105.12462 10.4825,93.8782 202.95704,91.04378 242.74208,93.15273 39.78506,2.10908 246.60208,-8.18991 282.20859,-40.20961 22.28885,-20.04344 30.90244,-39.96633 29.88454,-59.81606 z"
+       d="m 931.64403,214.11789 c -7.31895,-64.08178 -84.70368,-110.79162 -283.73235,-98.25168 -106.61048,6.71702 -227.71917,11.24632 -218.2356,105.12462 9.48368,93.8782 183.61836,91.04378 219.6125,93.15273 35.99415,2.10908 223.10469,-8.18991 255.31844,-40.20961 20.16507,-20.04344 27.95792,-39.96633 27.03701,-59.81606 z"
        id="path4546"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1201.5324,408.37159 c -8.7734,83.62473 -85.7928,142.72449 -280.57141,121.19875 -104.33382,-11.53026 -222.93364,-20.5725 -211.2948,-143.11267 11.63893,-122.54005 182.25806,-114.34925 217.59277,-116.18078 35.33473,-1.8317 218.48674,16.4562 249.26414,59.16452 19.2659,26.73422 26.4075,52.99223 25.0093,78.93018 z"
+       d="M 1218.5333,408.37159 C 1209.1205,491.99632 1126.488,551.09608 917.51414,529.57034 805.5766,518.04008 678.33336,508.99784 690.82042,386.45767 703.30759,263.91762 886.36124,272.10842 924.2711,270.27689 c 37.90988,-1.8317 234.4098,16.4562 267.4302,59.16452 20.67,26.73422 28.332,52.99223 26.832,78.93018 z"
        id="path4546-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cssssc" />
@@ -425,7 +425,7 @@
        sodipodi:nodetypes="cssssccc" />
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
-       d="m 1283.3578,2880.8751 c -20.5286,23.7765 -189.0586,45.5132 -246.7116,-6.268 -57.65304,-51.7813 -20.2761,-110.9524 14.077,-129.1542 34.3529,-18.2019 134.5086,-36.3966 179.5203,-18.7221 45.0119,17.6744 79.7611,43.1885 80.7374,93.4772 0.3983,20.5249 -7.0942,36.8904 -27.6231,60.6671 z"
+       d="m 1285.0016,2885.8065 c -20.5286,23.7765 -189.0586,45.5132 -246.7116,-6.268 -57.65305,-51.7813 -20.2761,-110.9524 14.077,-129.1542 34.3529,-18.2019 134.5086,-36.3966 179.5203,-18.7221 45.0119,17.6744 79.7611,43.1885 80.7374,93.4772 0.3983,20.5249 -7.0942,36.8904 -27.6231,60.6671 z"
        id="path4040"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="zssssz" />
@@ -441,19 +441,19 @@
          id="tspan4215"
          x="2040.9243"
          y="2519.9944"
-         style="stroke-width:3.82173181;stroke-miterlimit:4;stroke-dasharray:none">- FIM -</tspan></text>
+         style="stroke-width:3.82173181;stroke-miterlimit:4;stroke-dasharray:none">- ECHU -</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.79592609px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.37000002;fill:#000000;fill-opacity:1;stroke:none"
-       x="1239.4775"
+       x="1240.0964"
        y="3392.3091"
        id="text4246-42"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:36.73472214px"
-         x="1239.4775"
+         x="1240.0964"
          y="3392.3091"
-         id="tspan4252-9">01/2016 - Arte e roteiro: David Revoy   Tradução: Alexandre Esteves Almeida</tspan></text>
+         id="tspan4252-9">01/2016 - Tresadennoù &amp; Senario : David Revoy</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -466,74 +466,61 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1157254;marker:none;filter:url(#filter5561-7);enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1157254;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        x="1705.2566"
        y="1742.2045"
        id="text4251"
        sodipodi:linespacing="125%"
-       transform="matrix(0.5202912,-0.00262845,-0.07945412,0.7269402,-462.3351,545.42093)"><tspan
+       transform="matrix(0.51881929,-0.00284273,-0.07922934,0.78620252,-457.66004,301.90747)"><tspan
          sodipodi:role="line"
          x="1705.2566"
          y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:none"
-         id="tspan4232">Dragões</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1157254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4232">Dentour</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1157254;marker:none;filter:url(#filter5561-7-5);enable-background:accumulate"
-       x="1705.2566"
-       y="1742.2045"
-       id="text4251-4"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.50437518,-0.00211265,-0.07702357,0.58428706,-311.29129,708.99038)"><tspan
-         sodipodi:role="line"
-         x="1705.2566"
-         y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:110.55571747px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:none"
-         id="tspan4232-6">de</tspan></text>
-    <text
-       xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1157254;marker:none;filter:url(#filter5561-7-4);enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1157254;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-4);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        x="1705.2566"
        y="1742.2045"
        id="text4251-9"
        sodipodi:linespacing="125%"
-       transform="matrix(0.48523279,-0.00237162,-0.07410032,0.65590877,-399.35098,524.26084)"><tspan
+       transform="matrix(0.48523279,-0.00237162,-0.07410032,0.65590877,-413.32606,666.26084)"><tspan
          sodipodi:role="line"
          x="1705.2566"
          y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:none"
-         id="tspan4232-5">Dentista </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1157254;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4232-5">Erevent</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.02861881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-4-7);enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.02861881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-4-7);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        x="1705.2566"
        y="1742.2045"
        id="text4251-9-3"
        sodipodi:linespacing="125%"
-       transform="matrix(0.44217464,-0.13490256,0.03342804,0.51140684,-462.30481,1345.2341)"><tspan
+       transform="matrix(0.44217464,-0.13490256,0.03342804,0.51140684,-488.71658,1354.6589)"><tspan
          sodipodi:role="line"
          x="1705.2566"
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:9.02861881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan4232-5-9">Grátis!</tspan></text>
+         id="tspan4232-5-9">Digoust! </tspan></text>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71238154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 516.82077,1650.4887 c -0.46727,14.1996 -1.86907,27.3069 -4.20541,31.1299 -2.33634,3.823 0.93454,7.0998 5.60722,6.8267 4.67267,-0.273 1.4018,-4.6421 0.93453,-9.0113 -0.46727,-4.3691 0.93454,-28.6722 0.93454,-28.6722 z"
+       d="m 534.87142,1656.3271 c -0.46727,14.1996 -1.86907,27.3069 -4.20541,31.1299 -2.33634,3.823 0.93454,7.0998 5.60722,6.8267 4.67267,-0.273 1.4018,-4.6421 0.93453,-9.0113 -0.46727,-4.3691 0.93454,-28.6722 0.93454,-28.6722 z"
        id="path4362"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71238154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 339.43173,1651.6814 c -0.46727,7.8084 -1.86907,15.0162 -4.20541,17.1185 -2.33634,2.1022 0.93454,3.9042 5.60722,3.754 4.67267,-0.1501 1.4018,-2.5527 0.93453,-4.9554 -0.46727,-2.4025 0.93454,-15.7669 0.93454,-15.7669 z"
+       d="m 372.61384,1660.7622 c -0.46727,7.8084 -1.86907,15.0162 -4.20541,17.1185 -2.33634,2.1022 0.93454,3.9042 5.60722,3.754 4.67267,-0.1501 1.4018,-2.5527 0.93453,-4.9554 -0.46727,-2.4025 0.93454,-15.7669 0.93454,-15.7669 z"
        id="path4362-9"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71238154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 468.11452,1805.3362 c -0.46859,9.1979 -1.87437,17.6882 -4.21734,20.1646 -2.34297,2.4763 0.93719,4.5989 5.62313,4.422 4.68593,-0.1769 1.40578,-3.007 0.93718,-5.8372 -0.4686,-2.83 0.93719,-18.5725 0.93719,-18.5725 z"
+       d="m 488.2623,1818.9029 c -0.46727,9.9477 -1.86907,19.1301 -4.20541,21.8084 -2.33634,2.6782 0.93454,4.9738 5.60722,4.7825 4.67267,-0.1913 1.4018,-3.2521 0.93453,-6.313 -0.46727,-3.0608 0.93454,-20.0866 0.93454,-20.0866 z"
        id="path4362-9-0"
        inkscape:connector-curvature="0" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71238154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 458.22234,1966.5724 c -0.46727,11.7049 -1.86907,22.5094 -4.20541,25.6608 -2.33634,3.1513 0.93454,5.8524 5.60722,5.6273 4.67267,-0.2251 1.4018,-3.8265 0.93453,-7.4281 -0.46727,-3.6015 0.93454,-23.6349 0.93454,-23.6349 z"
+       d="m 344.06165,2002.1491 c -0.46727,11.7049 -1.86907,22.5094 -4.20541,25.6608 -2.33634,3.1513 0.93454,5.8524 5.60722,5.6273 4.67267,-0.2251 1.4018,-3.8265 0.93453,-7.4281 -0.46727,-3.6015 0.93454,-23.6349 0.93454,-23.6349 z"
        id="path4362-9-0-8"
        inkscape:connector-curvature="0" />
     <text
@@ -562,34 +549,34 @@
          style="font-size:45px"
          x="683.56146"
          y="183.85486"
-         id="tspan4252">Então?</tspan><tspan
+         id="tspan4252">Ha neuze,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="683.56146"
          y="240.10486"
-         id="tspan4499">Está impressionada?</tspan></text>
+         id="tspan4499">estlammet, n'oc'h ket?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        x="958.0614"
-       y="355.00549"
+       y="367.00549"
        id="text4246-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="958.0614"
-         y="355.00549"
-         id="tspan3805">Já temos</tspan><tspan
+         y="367.00549"
+         id="tspan4499-4">Bez' em eus</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="958.0614"
-         y="411.25549"
-         id="tspan3809">pelo menos cem</tspan><tspan
+         y="423.25549"
+         id="tspan3430">ur c'hant bennak</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="958.0614"
-         y="467.50549"
-         id="tspan3815">Dentes de Dragão!</tspan></text>
+         y="479.50549"
+         id="tspan4526">a zent erevent!</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -601,12 +588,12 @@
          style="font-size:45px"
          x="954.74121"
          y="2628.4919"
-         id="tspan4526-1">... Mas Pepper,</tspan><tspan
+         id="tspan4526-1">...Arsa Pepper,</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="954.74121"
          y="2684.7419"
-         id="tspan4559">Dente de Dragão...</tspan></text>
+         id="tspan4559">an dant aerouant...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -616,13 +603,13 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1159.1488"
+         x="1167.059"
          y="2796.26"
-         id="tspan4586">... é</tspan><tspan
+         id="tspan4559-6">...zo </tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1159.1488"
          y="2852.51"
-         id="tspan3556">uma planta!</tspan></text>
+         id="tspan4586">ur blantenn!</tspan></text>
   </g>
 </svg>
