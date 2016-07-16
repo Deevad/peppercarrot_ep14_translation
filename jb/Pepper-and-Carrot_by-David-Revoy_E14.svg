@@ -166,15 +166,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.63908468"
      inkscape:cx="619.03293"
      inkscape:cy="301.33545"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2" />
   <g
@@ -183,28 +183,28 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true" />
   <image
-     sodipodi:absref="F:\peppercarrot_ep14_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14.png"
+     sodipodi:absref="/mnt/bitcoin/peppercarrot_ep14_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E14.png"
      xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14.png"
-     y="0"
-     x="0"
-     id="image10"
+     width="1100"
      height="765"
-     width="1100" />
+     id="image10"
+     x="0"
+     y="0" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.36682606px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3836-1-7)"
-       x="100.79785"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.36682606px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter3836-1-7)"
+       x="548.5957"
        y="736.31476"
        id="text4183"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4185"
-         x="100.79785"
+         x="548.5957"
          y="736.31476"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi">i 14 pagbu fa lu la denci be lo drakono li'u</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;text-anchor:middle">i 14 moi fa la'e lu la denci be lo drakono li'u</tspan></text>
   </g>
 </svg>

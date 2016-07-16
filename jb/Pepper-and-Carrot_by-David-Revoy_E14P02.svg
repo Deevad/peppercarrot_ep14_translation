@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.30417502"
-     inkscape:cx="1517.94"
-     inkscape:cy="891.3696"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1462.0511"
+     inkscape:cy="1164.2388"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,7 +56,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep14_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep14_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P02.png"
        y="0"
        x="0"
@@ -198,14 +198,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="1507.3965"
-       y="361.57327"
+       x="1497.3965"
+       y="373.57327"
        id="text4246-7-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          style="font-size:45px"
-         x="1507.3965"
-         y="361.57327"
+         x="1497.3965"
+         y="373.57327"
          id="tspan4196">i mi ji'a</tspan></text>
     <text
        xml:space="preserve"
@@ -276,7 +276,7 @@
          style="font-size:45px"
          x="1994.5713"
          y="3171.8694"
-         id="tspan3617">i lo tsali cinza e lo</tspan><tspan
+         id="tspan3617">i lo tsali cinza jo'u lo</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1994.5713"
