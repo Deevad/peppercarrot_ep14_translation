@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1151"
-     inkscape:window-height="937"
+     inkscape:window-width="1600"
+     inkscape:window-height="852"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.34413473"
-     inkscape:cx="1093.7094"
-     inkscape:cy="843.9121"
-     inkscape:window-x="54"
-     inkscape:window-y="-8"
+     inkscape:cx="1012.3459"
+     inkscape:cy="335.39034"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer2"
      inkscape:object-nodes="true"
@@ -66,15 +66,15 @@
      transform="translate(0,1024)"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="F:\peppercarrot_ep14_translation\jb\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P07.png"
+       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep14_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P07.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P07.png"
-       y="-1023.3771"
-       x="0.54707891"
-       id="image4223"
-       style="image-rendering:optimizeQuality"
-       preserveAspectRatio="none"
+       width="2481.4438"
        height="4504.5391"
-       width="2481.4438" />
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image4223"
+       x="0.54707891"
+       y="-1023.3771" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -111,17 +111,12 @@
          x="1240.9395"
          y="-820.94409"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4219">i la'e lu la piper jo'u la karot li'u se jdima no da</tspan><tspan
+         id="tspan4084">i la'e lu la piper jo'u la karot li'u fingubni</tspan><tspan
          sodipodi:role="line"
          x="1240.9395"
          y="-758.44409"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4082">i lo cupra cartu be la'e bu cu gubni</tspan><tspan
-         sodipodi:role="line"
-         x="1240.9395"
-         y="-695.94409"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4084">gi'e se sarji 671 se selfu prenu pe la'e di'e</tspan></text>
+         id="tspan3358">i sarji lo nu finti kei fa lo 671 se selfu prenu pe la'e di'e</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.29317284px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -167,16 +162,16 @@
          x="1207.6826"
          y="3224.668"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4097">i pu'i pilno fi lo nu zbasu lo dei pagbu pe la'e bu vau fe</tspan><tspan
+         id="tspan4097">i pu'i pilno fi lo ka zbasu lo dei pagbu pe la'e bu vau</tspan><tspan
          sodipodi:role="line"
-         x="1207.6826"
+         x="1213.835"
          y="3268.418"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4099">lo tutci noi se jdima no da gi'e ckaji be lo ka lo cupra vreji be ce'u cu gubni i mupli lo ka me</tspan><tspan
+         id="tspan4101">fe lo tutci poi fingubni ku'o noi me ke'a fa la'o gy.Krita 2.9.10.gy. </tspan><tspan
          sodipodi:role="line"
          x="1207.6826"
          y="3312.168"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:Lavi;-inkscape-font-specification:Lavi"
-         id="tspan4101">tutci bu vau fa la'o gy.Krita 2.9.10.gy. e la'o gy.Inkscape 0.91.gy. e la'o gy.Linux Mint 17.gy.</tspan></text>
+         id="tspan3366">e la'o gy.Inkscape 0.91.gy. e la'o gy.Linux Mint 17.gy.</tspan></text>
   </g>
 </svg>
