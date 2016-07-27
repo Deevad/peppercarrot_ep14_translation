@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="2481"
+   height="3503"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E14P06.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4232"
+       id="linearGradient4238"
+       x1="1956.4867"
+       y1="1758.8628"
+       x2="1955.2883"
+       y2="1705.3795"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4232">
+      <stop
+         style="stop-color:#2b0000;stop-opacity:1"
+         offset="0"
+         id="stop4234" />
+      <stop
+         style="stop-color:#800000;stop-opacity:1"
+         offset="1"
+         id="stop4236" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5561-7"
+       inkscape:label="Roughen">
+      <feFlood
+         id="feFlood5563-4"
+         flood-opacity="0"
+         flood-color="rgb(196,140,139)"
+         result="flood" />
+      <feComposite
+         id="feComposite5565-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology5567-3"
+         operator="dilate"
+         radius="2"
+         result="result3" />
+      <feComposite
+         id="feComposite5569-6"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic"
+         radius="3.3999999999999999" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4681" />
+      <feTurbulence
+         id="feTurbulence4683"
+         type="fractalNoise"
+         numOctaves="1"
+         seed="20"
+         baseFrequency="0 0.018999999999999975"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4685"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="37.8"
+         yChannelSelector="G"
+         xChannelSelector="R" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5561-7-5"
+       inkscape:label="Roughen">
+      <feFlood
+         id="feFlood5563-4-5"
+         flood-opacity="0"
+         flood-color="rgb(196,140,139)"
+         result="flood" />
+      <feComposite
+         id="feComposite5565-6-4"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology5567-3-8"
+         operator="dilate"
+         radius="2"
+         result="result3" />
+      <feComposite
+         id="feComposite5569-6-0"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic"
+         radius="3.3999999999999999" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4681-7" />
+      <feTurbulence
+         id="feTurbulence4683-6"
+         type="fractalNoise"
+         numOctaves="1"
+         seed="20"
+         baseFrequency="0 0.018999999999999975"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4685-0"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="37.8"
+         yChannelSelector="G"
+         xChannelSelector="R" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5561-7-4"
+       inkscape:label="Roughen">
+      <feFlood
+         id="feFlood5563-4-9"
+         flood-opacity="0"
+         flood-color="rgb(196,140,139)"
+         result="flood" />
+      <feComposite
+         id="feComposite5565-6-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology5567-3-86"
+         operator="dilate"
+         radius="2"
+         result="result3" />
+      <feComposite
+         id="feComposite5569-6-7"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic"
+         radius="3.3999999999999999" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4681-4" />
+      <feTurbulence
+         id="feTurbulence4683-0"
+         type="fractalNoise"
+         numOctaves="1"
+         seed="20"
+         baseFrequency="0 0.018999999999999975"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4685-04"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="37.8"
+         yChannelSelector="G"
+         xChannelSelector="R" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5561-7-4-7"
+       inkscape:label="Roughen">
+      <feFlood
+         id="feFlood5563-4-9-5"
+         flood-opacity="0"
+         flood-color="rgb(196,140,139)"
+         result="flood" />
+      <feComposite
+         id="feComposite5565-6-7-6"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology5567-3-86-2"
+         operator="dilate"
+         radius="2"
+         result="result3" />
+      <feComposite
+         id="feComposite5569-6-7-9"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic"
+         radius="3.3999999999999999" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4681-4-2" />
+      <feTurbulence
+         id="feTurbulence4683-0-1"
+         type="fractalNoise"
+         numOctaves="1"
+         seed="20"
+         baseFrequency="0 0.018999999999999975"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4685-04-7"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="37.8"
+         yChannelSelector="G"
+         xChannelSelector="R" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5561-7-49"
+       inkscape:label="Roughen">
+      <feFlood
+         id="feFlood5563-4-7"
+         flood-opacity="0"
+         flood-color="rgb(196,140,139)"
+         result="flood" />
+      <feComposite
+         id="feComposite5565-6-77"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology5567-3-5"
+         operator="dilate"
+         radius="2"
+         result="result3" />
+      <feComposite
+         id="feComposite5569-6-73"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic"
+         radius="3.3999999999999999" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4681-43" />
+      <feTurbulence
+         id="feTurbulence4683-4"
+         type="fractalNoise"
+         numOctaves="1"
+         seed="20"
+         baseFrequency="0 0.018999999999999975"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4685-1"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="37.8"
+         yChannelSelector="G"
+         xChannelSelector="R" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5561-7-1"
+       inkscape:label="Roughen">
+      <feFlood
+         id="feFlood5563-4-8"
+         flood-opacity="0"
+         flood-color="rgb(196,140,139)"
+         result="flood" />
+      <feComposite
+         id="feComposite5565-6-3"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology5567-3-1"
+         operator="dilate"
+         radius="2"
+         result="result3" />
+      <feComposite
+         id="feComposite5569-6-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="fbSourceGraphic"
+         radius="3.3999999999999999" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4681-48" />
+      <feTurbulence
+         id="feTurbulence4683-2"
+         type="fractalNoise"
+         numOctaves="1"
+         seed="20"
+         baseFrequency="0 0.018999999999999975"
+         result="turbulence" />
+      <feDisplacementMap
+         id="feDisplacementMap4685-9"
+         in2="turbulence"
+         in="fbSourceGraphic"
+         scale="37.8"
+         yChannelSelector="G"
+         xChannelSelector="R" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter5561-1"
+       inkscape:label="deevad outline effect">
+      <feFlood
+         id="feFlood5563-9"
+         flood-opacity="1"
+         flood-color="rgb(218,131,104)"
+         result="flood" />
+      <feComposite
+         id="feComposite5565-0"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feMorphology
+         id="feMorphology5567-7"
+         operator="dilate"
+         radius="1.8999999999999999 6.0999999999999996"
+         result="result3" />
+      <feComposite
+         id="feComposite5569-2"
+         in2="result3"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.526013"
+     inkscape:cx="1253.2975"
+     inkscape:cy="685.32889"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="H:\Pepper And Carrot\Translation\peppercarrot_ep14_translation-master\el\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
+       xlink:href="..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
+       width="2481"
+       height="3503"
+       id="image10"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 965.66286,214.11789 c -8.08978,-64.08178 -93.62466,-110.79162 -313.61505,-98.25168 -117.83868,6.71702 -251.70255,11.24632 -241.22016,105.12462 10.4825,93.8782 202.95704,91.04378 242.74208,93.15273 39.78506,2.10908 246.60208,-8.18991 282.20859,-40.20961 22.28885,-20.04344 30.90244,-39.96633 29.88454,-59.81606 z"
+       id="path4546"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1201.5324,408.37159 c -8.7734,83.62473 -85.7928,142.72449 -280.57141,121.19875 -104.33382,-11.53026 -222.93364,-20.5725 -211.2948,-143.11267 11.63893,-122.54005 182.25806,-114.34925 217.59277,-116.18078 35.33473,-1.8317 218.48674,16.4562 249.26414,59.16452 19.2659,26.73422 26.4075,52.99223 25.0093,78.93018 z"
+       id="path4546-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1231.2466,617.38152 c -56.0991,-54.21631 -110.0577,-88.72142 -169.0716,-98.68419 -58.7082,-9.91115 -69.14739,-19.31675 -69.14739,-19.31675 l 73.25059,-17.6983 c -2.0233,-6.10139 73.5669,-9.18652 164.9684,135.69924 z"
+       id="path3072-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 702.96909,2656.1569 c -1.72553,-42.1507 29.33413,-70.8132 46.58956,-84.3015 17.2556,-13.4883 98.7266,-41.6027 179.75021,-38.9824 96.05164,3.1063 160.39304,12.9714 200.99384,30.7611 26.6638,11.6831 66.0579,43.6723 66.1725,106.0112 0.136,74.0095 -136.3247,78.7317 -163.9269,80.9295 -25.8834,5.0582 -100.08181,8.4302 -124.23952,6.7442 -24.06402,-0.7948 -208.37984,-11.676 -205.33969,-101.1621 z"
+       id="path3357"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssssccc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 1283.3578,2880.8751 c -20.5286,23.7765 -189.0586,45.5132 -246.7116,-6.268 -57.65304,-51.7813 -20.2761,-110.9524 14.077,-129.1542 34.3529,-18.2019 134.5086,-36.3966 179.5203,-18.7221 45.0119,17.6744 79.7611,43.1885 80.7374,93.4772 0.3983,20.5249 -7.0942,36.8904 -27.6231,60.6671 z"
+       id="path4040"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zssssz" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.55184174px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.43900003;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.82173181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="2040.9243"
+       y="2519.9944"
+       id="text4213"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.75304346,0,-0.11971288,1.3279446,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4215"
+         x="2040.9243"
+         y="2519.9944"
+         style="stroke-width:3.82173181;stroke-miterlimit:4;stroke-dasharray:none">-ΤΕΛΟΣ-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.75px;line-height:125%;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.37000002;fill:#000000;fill-opacity:1;stroke:none;"
+       x="1240.0964"
+       y="3392.3091"
+       id="text4246-42"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:43.75px;-inkscape-font-specification:VAG-HandWritten;font-family:VAG-HandWritten;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
+         x="1240.0964"
+         y="3392.3091"
+         id="tspan4252-9">01/2016 - Σκίτσο και σενάριο: David Revoy   Μετάφραση: Γεώργιος Καρέττας</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt">
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate"
+       d="m 724.56748,2813.1349 c 32.20306,-6.3313 35.22886,-9.3093 36.06643,-23.8719 0.83746,-14.5626 -3.22404,-35.5762 18.88405,-53.4602 22.1081,-17.8839 40.05569,-16.878 51.91568,-16.9259 -9.81582,-16.4069 -36.0574,-33.5563 -50.97919,-37.5402 -14.92188,-3.984 54.92342,-23.4089 54.92342,-23.4089 0,0 38.19174,34.626 33.75215,58.3703 -4.43958,23.744 -53.08634,25.8279 -70.36762,36.1432 -17.28117,10.3152 -13.48098,39.6878 -25.2869,50.2505 -11.80604,10.5628 -33.09459,10.3792 -48.90802,10.4431 z"
+       id="path4538"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:160.11950684px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1157254;marker:none;filter:url(#filter5561-7);enable-background:accumulate"
+       x="1705.2566"
+       y="1742.2045"
+       id="text4251"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.47306922,-0.0022327,-0.07224281,0.6174907,-383.10206,726.81173)"><tspan
+         sodipodi:role="line"
+         x="1705.2566"
+         y="1742.2045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-family:pecita;-inkscape-font-specification:'pecita Expanded';fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan4232"> Δράκων</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1157254;marker:none;filter:url(#filter5561-7-5);enable-background:accumulate"
+       x="1705.2566"
+       y="1742.2045"
+       id="text4251-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.50437518,-0.00211265,-0.07702357,0.58428706,-295.00432,728.39694)"><tspan
+         sodipodi:role="line"
+         x="1705.2566"
+         y="1742.2045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan4232-6">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:160.11950684px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.1157254;marker:none;filter:url(#filter5561-7-4);enable-background:accumulate"
+       x="1705.2566"
+       y="1742.2045"
+       id="text4251-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.33849192,-0.00246083,-0.0516914,0.68058194,-219.10244,496.14477)"><tspan
+         sodipodi:role="line"
+         x="1705.2566"
+         y="1742.2045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-family:pecita;-inkscape-font-specification:'pecita Expanded';fill:#000000;fill-opacity:1;stroke:none"
+         id="tspan4232-5">  Οδοντίατρος</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:160.11950684px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.02861881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-4-7);enable-background:accumulate"
+       x="1705.2566"
+       y="1742.2045"
+       id="text4251-9-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.44217464,-0.13490256,0.03342804,0.51140684,-516.54637,1365.6516)"><tspan
+         sodipodi:role="line"
+         x="1705.2566"
+         y="1742.2045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-family:pecita;-inkscape-font-specification:'pecita Expanded';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:9.02861881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan4232-5-9"> ΔΩΡΕΑΝ!</tspan></text>
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71238154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 520.82077,1658.4887 c -0.46727,14.1996 -1.86907,27.3069 -4.20541,31.1299 -2.33634,3.823 0.93454,7.0998 5.60722,6.8267 4.67267,-0.273 1.4018,-4.6421 0.93453,-9.0113 -0.46727,-4.3691 0.93454,-28.6722 0.93454,-28.6722 z"
+       id="path4362"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71238154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 343.43173,1659.6814 c -0.46727,7.8084 -1.86907,15.0162 -4.20541,17.1185 -2.33634,2.1022 0.93454,3.9042 5.60722,3.754 4.67267,-0.1501 1.4018,-2.5527 0.93453,-4.9554 -0.46727,-2.4025 0.93454,-15.7669 0.93454,-15.7669 z"
+       id="path4362-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71238154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 456.90577,1763.9078 c -0.46859,9.1979 -1.87437,17.6882 -4.21734,20.1646 -2.34297,2.4763 0.93719,4.5989 5.62313,4.422 4.68593,-0.1769 1.40578,-3.007 0.93718,-5.8372 -0.4686,-2.83 0.93719,-18.5725 0.93719,-18.5725 z"
+       id="path4362-9-0"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.7;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.71238154;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 458.22234,1966.5724 c -0.46727,11.7049 -1.86907,22.5094 -4.20541,25.6608 -2.33634,3.1513 0.93454,5.8524 5.60722,5.6273 4.67267,-0.2251 1.4018,-3.8265 0.93453,-7.4281 -0.46727,-3.6015 0.93454,-23.6349 0.93454,-23.6349 z"
+       id="path4362-9-0-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11559534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-1);enable-background:accumulate;"
+       id="text4251-1-3"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="-166.27466"
+       inkscape:transform-center-y="98.316572"
+       y="1742.2045"
+       x="1705.2566"
+       transform="matrix(0.4166079,-0.33158689,0.27882854,1.0774956,283.60517,-477.53677)"><tspan
+         sodipodi:role="line"
+         id="tspan4253-5-1"
+         x="1705.2566"
+         y="1742.2045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.57711792px;font-family:Lavi;-inkscape-font-specification:Lavi;letter-spacing:6.35989523px;fill:#ffffff;">pop !</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       x="683.56146"
+       y="183.85486"
+       id="text4246"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="683.56146"
+         y="183.85486"
+         id="tspan4252">Λοιπόν;!</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="683.56146"
+         y="240.10486"
+         id="tspan4499">Δεν έχεις εντυπωσιασθεί;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="952.68433"
+       y="323.98865"
+       id="text4246-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:pecita;-inkscape-font-specification:'pecita Expanded'"
+         x="963.27515"
+         y="323.98865"
+         id="tspan3552">Πρέπει να έχω </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:pecita;-inkscape-font-specification:'pecita Expanded'"
+         x="952.68433"
+         y="380.23865"
+         id="tspan3434">τουλάχιστον 100</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:pecita;-inkscape-font-specification:'pecita Expanded'"
+         x="963.27515"
+         y="436.48865"
+         id="tspan3436">δόντια δράκου </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:pecita;-inkscape-font-specification:'pecita Expanded'"
+         x="952.68433"
+         y="492.73865"
+         id="tspan3438">μέχρι τώρα...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       x="954.74121"
+       y="2628.4919"
+       id="text4246-4-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="954.74121"
+         y="2628.4919"
+         id="tspan4559">...μα Πιπεριά,</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="954.74121"
+         y="2684.7419"
+         id="tspan3442">το &quot;δόντι δράκου&quot;...</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
+       x="1159.1488"
+       y="2796.26"
+       id="text4246-4-4-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="1159.1488"
+         y="2796.26"
+         id="tspan4586">είναι</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
+         x="1159.1488"
+         y="2852.51"
+         id="tspan3556">φυτό!</tspan></text>
+  </g>
+</svg>
