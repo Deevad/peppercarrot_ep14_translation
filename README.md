@@ -1,4 +1,4 @@
-# Pepper&Carrot translation project
+﻿# Pepper&Carrot translation project
 # Episode 14: The Dragon's Tooth
 
 [http://www.peppercarrot.com](http://www.peppercarrot.com)
@@ -13,7 +13,7 @@ License
 
 ## Translators and correctors:
 
-* Catalan: Juan Jos? Segura
+* Catalan: Juan José Segura
 
 * Chinese: Ran Zhuang
 
@@ -27,7 +27,7 @@ License
 
 * Greek: George Karettas
 
-* Hungarian: Hal?sz G?bor "Hali"
+* Hungarian: Halász Gábor "Hali"
 
 * Italian: Carlo Gandolfi
 
@@ -39,7 +39,7 @@ License
 
 * Mexicano: RJ Quiralta
 
-* Polish: S?lve Svartskogen
+* Polish: Sölve Svartskogen
 
 * Portuguese: Alexandre Esteves Almeida
 
