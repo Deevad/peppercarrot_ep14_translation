@@ -34,8 +34,8 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4232"
        id="linearGradient4238"
-       x1="1956.4867"
-       y1="1758.8628"
+       x1="1956.9269"
+       y1="1763.7621"
        x2="1955.2883"
        y2="1705.3795"
        gradientUnits="userSpaceOnUse" />
@@ -191,6 +191,15 @@
        x2="1955.2883"
        y2="1705.3795"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4232"
+       id="linearGradient3459"
+       gradientUnits="userSpaceOnUse"
+       x1="1956.9269"
+       y1="1763.7621"
+       x2="1955.2883"
+       y2="1705.3795" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -201,15 +210,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="852"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.46000001"
-     inkscape:cx="1207.1797"
-     inkscape:cy="2725.6531"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="1286.5741"
+     inkscape:cy="847.14803"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -218,7 +227,7 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/mnt/bitcoin/peppercarrot_ep14_translation/jb/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
+       sodipodi:absref="H:\Pepper And Carrot\Translation\peppercarrot_ep14_translation-master\el\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P05.png"
        y="0"
        x="0"
@@ -283,106 +292,99 @@
      inkscape:label="txt">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.91906166px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:16.91906166px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
        x="473.69452"
        y="261.18845"
        id="text4246"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:63.44648361px"
+         style="font-size:63.44648361px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
          x="473.69452"
          y="261.18845"
-         id="tspan4252">i i'a</tspan></text>
+         id="tspan4252">Οκ...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
        x="773.52966"
        y="352.78668"
        id="text4246-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
          x="773.52966"
          y="352.78668"
-         id="tspan3537">zildukse</tspan><tspan
+         id="tspan4162">Είναι ΠΟΛΥ</tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
          x="773.52966"
          y="409.03668"
-         id="tspan3832">pluja</tspan></text>
+         id="tspan3537">δύσκολο...</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
        x="1200.1364"
-       y="405.05008"
+       y="433.05008"
        id="text4246-4-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:45px;-inkscape-font-specification:'pecita Expanded';font-family:pecita;font-weight:normal;font-style:normal;font-stretch:expanded;font-variant:normal;"
          x="1200.1364"
-         y="405.05008"
-         id="tspan4162-1">i ca'e mi</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:45px"
-         x="1200.1364"
-         y="461.30008"
-         id="tspan3834">ba'o troci</tspan></text>
+         y="433.05008"
+         id="tspan4162-1">...τα παρατάω.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="771.69177"
-       y="1207.0106"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:12px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="773.86566"
+       y="1191.4454"
        id="text4246-4-9-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
-         x="771.69177"
-         y="1207.0106"
-         id="tspan3541">i la piper no roi</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:pecita;-inkscape-font-specification:'pecita Expanded'"
+         x="784.45648"
+         y="1191.4454"
+         id="tspan3541">Η Πιπεριά ποτέ δεν </tspan><tspan
          sodipodi:role="line"
-         style="font-size:45px"
-         x="771.69177"
-         y="1263.2606"
-         id="tspan3836">co'u troci</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:45px;font-family:pecita;-inkscape-font-specification:'pecita Expanded'"
+         x="773.86566"
+         y="1247.6954"
+         id="tspan4188">τα παρατά!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.78443336px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       x="767.7915"
-       y="1158.7135"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:14.78443336px;line-height:125%;font-family:pecita;-inkscape-font-specification:'pecita Expanded';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="774.31323"
+       y="1141.3221"
        id="text4246-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:55.44162369px;stroke:#000000;stroke-width:2.18458223;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="767.7915"
-         y="1158.7135"
-         id="tspan4252-1">i ca'e na ku</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:expanded;font-size:55.44162369px;font-family:pecita;-inkscape-font-specification:'pecita Expanded';stroke:#000000;stroke-width:2.18458223;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         x="774.31323"
+         y="1141.3221"
+         id="tspan4252-1">Όχι!</tspan></text>
     <text
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:url(#linearGradient4238);fill-opacity:1;fill-rule:nonzero;stroke:#854611;stroke-width:0.07121496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7);enable-background:accumulate"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:url(#linearGradient3459);fill-opacity:1;fill-rule:nonzero;stroke:#854611;stroke-width:0.07121496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7);enable-background:accumulate"
        x="1705.2566"
        y="1742.2045"
        id="text4251"
        sodipodi:linespacing="125%"
-       transform="matrix(1.0496631,-0.00680912,-0.72183224,1.8831671,603.49009,-1333.8832)"><tspan
+       transform="matrix(1.0496631,-0.00680912,-0.72183224,1.8831671,435.19258,-1285.6188)"><tspan
          sodipodi:role="line"
          id="tspan4253"
          x="1705.2566"
          y="1742.2045"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-           id="tspan4365"
-           style="font-size:45.57711792px;fill:url(#linearGradient4238);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">kukuriku</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.21495819px;font-family:Lavi;-inkscape-font-specification:Lavi;fill:url(#linearGradient3459);fill-opacity:1;stroke:#854611;stroke-width:0.07121496;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Κι-Κι-ΡιΚουυου!!!</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:56.25px;line-height:125%;font-family:VAG-HandWritten;-inkscape-font-specification:VAG-HandWritten;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;"
        x="310.95746"
        y="1886.489"
        id="text4246-4-9-8-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         style="font-size:45px"
+         style="font-size:56.25px;-inkscape-font-specification:VAG-HandWritten;font-family:VAG-HandWritten;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;"
          x="310.95746"
          y="1886.489"
-         id="tspan4205-3">i bavlamdei</tspan></text>
+         id="tspan4205-3">Την επομένη...</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.40283489px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -396,7 +398,7 @@
          x="-376.50845"
          y="2795.0046"
          id="tspan4205-3-3"><tspan
-           style="font-size:121.45326996px"
-           id="tspan4438">ii</tspan></tspan></text>
+   style="font-size:121.45326996px"
+   id="tspan4438">!</tspan>!</tspan></text>
   </g>
 </svg>

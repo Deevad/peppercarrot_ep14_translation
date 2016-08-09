@@ -25,6 +25,8 @@ License
 
 * French: David Revoy, corrections: Xavier Dolques
 
+* Greek: George Karettas
+
 * Hungarian: Halász Gábor "Hali"
 
 * Italian: Carlo Gandolfi
