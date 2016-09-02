@@ -21,6 +21,8 @@ License
 
 * English: Alex Gryson
 
+* Esperanto: LibreFan, Kaoseto kaj Nay Ledofiŝ
+
 * Finnish: Kari Lehto
 
 * French: David Revoy, corrections: Xavier Dolques
