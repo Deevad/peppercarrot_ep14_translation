@@ -25,6 +25,8 @@ License
 
 * Esperanto: LibreFan, Kaoseto kaj Nay Ledofiŝ
 
+* Farsi: Aslan Zamanloo
+
 * Finnish: Kari Lehto
 
 * French: David Revoy, corrections: Xavier Dolques
