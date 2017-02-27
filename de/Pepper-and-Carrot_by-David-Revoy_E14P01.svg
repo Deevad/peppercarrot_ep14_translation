@@ -105,15 +105,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1808"
-     inkscape:window-height="995"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.39388029"
-     inkscape:cx="547.57126"
-     inkscape:cy="771.24211"
-     inkscape:window-x="59"
-     inkscape:window-y="20"
+     inkscape:cx="1766.2156"
+     inkscape:cy="-41.187474"
+     inkscape:window-x="79"
+     inkscape:window-y="63"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
@@ -122,13 +122,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep14_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep14_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -257,7 +257,7 @@
          style="font-size:45px"
          x="672.78448"
          y="2469.0073"
-         id="tspan3530">sinnlos ohne ihn</tspan><tspan
+         id="tspan3530">sinnlos, ohne ihn</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="672.78448"

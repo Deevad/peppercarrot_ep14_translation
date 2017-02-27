@@ -39,15 +39,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1858"
-     inkscape:window-height="1058"
+     inkscape:window-width="1440"
+     inkscape:window-height="811"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.40227146"
-     inkscape:cx="1064.959"
-     inkscape:cy="1148.2514"
-     inkscape:window-x="1974"
-     inkscape:window-y="-8"
+     inkscape:cx="1263.8297"
+     inkscape:cy="352.76867"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <g
@@ -56,13 +56,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep14_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P03.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep14_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P03.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P03.png"
-       width="2481"
-       height="3503"
-       id="image10"
+       y="0"
        x="0"
-       y="0" />
+       id="image10"
+       height="3503"
+       width="2481" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -139,12 +139,12 @@
          style="font-size:45px"
          x="1435.9531"
          y="401.71786"
-         id="tspan3474">Ich glaube das wird</tspan><tspan
+         id="tspan3474">Ich glaube, das wird</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1435.9531"
          y="457.96786"
-         id="tspan3395">ein klitze kleines</tspan><tspan
+         id="tspan3395">ein klitzekleines</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1435.9531"
@@ -179,7 +179,7 @@
          style="font-size:45px"
          x="928.74841"
          y="2348.6091"
-         id="tspan3495">... und ich dachte es</tspan><tspan
+         id="tspan3495">... und ich dachte, es</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="928.74841"

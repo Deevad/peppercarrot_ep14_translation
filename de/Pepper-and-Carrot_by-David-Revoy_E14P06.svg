@@ -370,15 +370,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1811"
-     inkscape:window-height="961"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.526013"
-     inkscape:cx="1071.2826"
-     inkscape:cy="488.00998"
-     inkscape:window-x="1988"
-     inkscape:window-y="3"
+     inkscape:cx="1147.3263"
+     inkscape:cy="640.09748"
+     inkscape:window-x="14"
+     inkscape:window-y="73"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <g
@@ -387,13 +387,13 @@
      inkscape:label="artwork"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="C:\work\git\peppercarrot_ep14_translation\de\..\gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
+       sodipodi:absref="C:/work/git/peppercarrot_ep14_translation/de/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
        xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P06.png"
-       y="0"
-       x="0"
-       id="image10"
+       width="2481"
        height="3503"
-       width="2481" />
+       id="image10"
+       x="0"
+       y="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -502,7 +502,7 @@
          x="1705.2566"
          y="1742.2045"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Lavi;-inkscape-font-specification:Lavi;fill:#000000;fill-opacity:1;stroke:none"
-         id="tspan4232-5">Drachen</tspan></text>
+         id="tspan4232-5">Drachen-</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160.11950684px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0.02734961px;word-spacing:0px;display:inline;overflow:visible;visibility:visible;opacity:0.7;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:9.02861881;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5561-7-4-7);enable-background:accumulate"
@@ -567,7 +567,7 @@
          style="font-size:45px"
          x="683.56146"
          y="275.53329"
-         id="tspan3453">Nicht war?</tspan></text>
+         id="tspan3453">Nicht wahr?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:125%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
@@ -613,7 +613,7 @@
          style="font-size:45px"
          x="1159.1488"
          y="2796.26"
-         id="tspan3556">... is eine</tspan><tspan
+         id="tspan3556">... ist eine</tspan><tspan
          sodipodi:role="line"
          style="font-size:45px"
          x="1159.1488"
