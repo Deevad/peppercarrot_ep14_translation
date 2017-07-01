@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   width="2646.3999"
+   height="3736.5334"
+   sodipodi:docname="Pepper-and-Carrot_by-David-Revoy_E14P01.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect76"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect72"
+       is_visible="true" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5841"
+       x="-0.0028565165"
+       width="1.005713"
+       y="-0.017347846"
+       height="1.0346957">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.3401381"
+         id="feGaussianBlur5843" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4777"
+       x="-0.010849841"
+       width="1.0216997"
+       y="-0.052787542"
+       height="1.1055751">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.66607649"
+         id="feGaussianBlur4779" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4781"
+       x="-0.010545129"
+       width="1.0210903"
+       y="-0.061422803"
+       height="1.1228456">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.46603759"
+         id="feGaussianBlur4783" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4813"
+       x="-0.066799246"
+       width="1.1335984"
+       y="-0.093713716"
+       height="1.1874274">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.88793856"
+         id="feGaussianBlur4815" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4833"
+       x="-0.012663071"
+       width="1.0253261"
+       y="-0.031112596"
+       height="1.0622252">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.52769825"
+         id="feGaussianBlur4835" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1305"
+     inkscape:window-height="744"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.3402741"
+     inkscape:cx="863.89612"
+     inkscape:cy="1230.9562"
+     inkscape:window-x="61"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="artwork"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/emmiline/Documents/git/peppercarrot/peppercarrot_ep14_translation/da/../gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
+       xlink:href="../gfx_Pepper-and-Carrot_by-David-Revoy_E14P01.png"
+       y="0"
+       x="0"
+       id="image10"
+       height="3736.5334"
+       width="2646.3999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="speechbubbles">
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1.06666672"
+       d="m 863.5749,1360.9446 c -3.54196,49.9981 -131.3504,79.663 -192.25295,84.0238 -60.90248,4.3607 -222.52846,19.6233 -283.43093,-39.2469 -60.90245,-58.8703 -39.39657,-87.6634 -6.43301,-118.6169 28.11014,-26.396 98.72833,-41.2285 160.9973,-49.4916 77.31938,-10.2601 174.40698,-3.3158 234.79665,17.8545 61.21154,21.4587 89.86489,55.4792 86.32294,105.4771 z"
+       id="path3100"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672px;marker:none;enable-background:accumulate"
+       d="m 677.08682,1527.1556 c -63.34526,-48.5173 -71.06916,-111.0926 -80.33241,-173.2687 -9.26325,-62.1761 39.31917,25.1381 39.31917,25.1381 0,0 -14.82196,49.0227 41.01324,148.1306 z"
+       id="path5002"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cscc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672px;marker:none;enable-background:accumulate"
+       d="m 724.3941,2096.8912 c 10.92897,-55.2906 53.40172,-89.3127 91.07881,-106.8849 40.31258,-18.8014 270.57099,-18.2463 328.19649,-20.1865 57.6255,-1.9399 200.1461,4.9163 272.6748,38.8666 72.5287,33.9505 79.5335,68.5841 80.5271,94.7743 0.9936,26.1902 -5.1991,101.0577 -100.4295,117.3712 -88.5705,15.1727 -294.5441,22.0898 -347.2018,18.2097 -52.65778,-3.88 -230.93089,-0.4277 -280.60798,-46.018 -49.6773,-45.5905 -43.24437,-63.1521 -44.23792,-96.1324 z"
+       id="path5909"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssssssc" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672px;marker:none;enable-background:accumulate"
+       d="m 1134.1457,1886.4086 c 22.6873,39.0048 28.3848,53.9733 -5.5306,93.3914 -33.9155,39.4181 -17.1099,50.8798 -17.1099,50.8798 l 35.6862,-10.8833 c 0,0 65.724,-88.775 -13.0457,-133.3879 z"
+       id="path3072"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       d="m 184.93078,2403.8565 c -12.9156,-106.9009 58.34378,-146.0447 250.69567,-151.1279 192.35189,-5.0833 241.43424,54.7139 257.36872,91.7817 15.93448,37.068 -9.21098,132.4957 -125.73053,180.0982 -116.51955,47.6025 -318.78399,-0.5855 -345.36381,-29.7672 -26.57982,-29.1818 -34.01839,-63.0231 -36.97005,-90.9848 z"
+       id="path3238"
+       inkscape:connector-curvature="0" />
+    <path
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672px;marker:none;enable-background:accumulate"
+       d="m 486.29813,2546.6806 c 46.04241,-58.8487 82.65092,-88.6756 225.91231,-85.644 143.26145,3.0318 169.89343,12.8846 189.17868,27.285 19.28506,14.4002 47.75374,97.0128 33.06032,153.8561 -14.6936,56.8434 -73.46749,116.7186 -213.97391,112.1712 -140.50644,-4.5476 -138.26994,-12.7746 -162.54662,-18.1901 -69.05782,-15.4051 -117.67319,-130.6294 -71.63078,-189.4782 z"
+       id="path4530"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="zsssssz" />
+    <path
+       style="fill:#ffffff;stroke:none;stroke-width:1.06666672"
+       d="m 985.77926,2801.6587 c -47.39676,-13.3234 -50.50644,-28.0845 -52.6418,-45.1959 -2.13543,-17.1111 -2.14236,-32.8934 -11.27763,-39.5835 -9.13532,-6.6903 -24.07651,-9.6096 -35.47011,-10.314 -11.39374,-0.7042 -13.84975,-11.0638 -17.66717,-22.3224 -3.81753,-11.2587 -38.318,-64.8987 -38.318,-64.8987 0,0 -6.22987,47.8814 -3.34172,62.9973 2.88816,15.1161 3.86587,20.6572 6.70558,26.3747 2.8398,5.7175 11.93354,18.7916 23.41722,22.5105 11.48364,3.7189 24.07305,1.7184 33.38315,2.601 9.31008,0.8826 19.44905,11.4536 23.88774,24.0864 4.43869,12.6326 18.84959,39.7752 38.00282,43.8455 19.15321,4.0702 33.31992,-0.1014 33.31992,-0.1014 z"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscssssssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="txt"
+     style="opacity:1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="606.51001"
+       y="1334.2843"
+       id="text4246"><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="606.51001"
+         y="1334.2843"
+         id="tspan4252">Nå, nå, nå!</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="606.51001"
+         y="1394.2843"
+         id="tspan4144">Så er ferien slut!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="1106.5612"
+       y="2053.3984"
+       id="text4246-7"><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="1106.5612"
+         y="2053.3984"
+         id="tspan4171">Lad os starte med et kursus</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="1106.5612"
+         y="2113.3984"
+         id="tspan66">i oldtidens eliksirer</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="1106.5612"
+         y="2173.3984"
+         id="tspan68">og deres primære ingredienser</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="426.8381"
+       y="2351.5784"
+       id="text4246-7-9"><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="426.8381"
+         y="2351.5784"
+         id="tspan4182">Hmm… Pokkers!</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="426.8381"
+         y="2411.5784"
+         id="tspan69">Der er ikke mere</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="435.2756"
+         y="2471.5784"
+         id="tspan75">dragetandspulver  </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.80000019px;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+       x="707.34009"
+       y="2554.9412"
+       id="text4246-7-9-4"><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="707.34009"
+         y="2554.9412"
+         id="tspan4217">Det nytter ikke</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="707.34009"
+         y="2614.9412"
+         id="tspan86">at starte uden</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:48px;line-height:1.25;stroke-width:1.06666672"
+         x="707.34009"
+         y="2674.9412"
+         id="tspan88">denne ingrediens...</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4664"
+       id="use4694"
+       transform="matrix(0.2413678,0.96175958,-1.2866298,0.18042315,4977.1274,802.13227)"
+       width="2481"
+       height="3503" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4664"
+       id="use4694-6"
+       transform="matrix(0.2413678,0.96175958,-1.2866298,0.18042315,4977.1274,802.13227)"
+       width="2481"
+       height="3503" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use4664"
+       id="use4694-3"
+       transform="matrix(0.2413678,0.96175958,-1.2866298,0.18042315,4977.1274,802.13227)"
+       width="2481"
+       height="3503" />
+    <text
+       id="text4178-6-5-9-0-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Lavi;-inkscape-font-specification:Lavi;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;opacity:0.81800022;fill:#412525;fill-opacity:1;stroke:none;filter:url(#filter5841)"
+       xml:space="preserve"
+       y="3129.8394"
+       x="1318.7137"
+       transform="matrix(-0.51799358,0.61632931,-1.3053645,0.20705406,6708.2477,1743.4405)"><tspan
+         y="3129.8394"
+         x="1318.7137"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.67671585px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;fill:#412525;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan4293-1-6-3-5">Dragetand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.64499996;fill:#221415;fill-opacity:1;stroke:#000000;stroke-width:0.3171955;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4813)"
+       x="568.25775"
+       y="1060.067"
+       id="text4191"
+       transform="scale(1.0666667)"><tspan
+         sodipodi:role="line"
+         id="tspan4193"
+         x="568.25775"
+         y="1060.067"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.86254311px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento">33</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.744;fill:#221415;fill-opacity:1;stroke:#502a2a;stroke-width:0.99138767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4833)"
+       x="705.80756"
+       y="803.86755"
+       id="text4243"
+       transform="matrix(0.85027323,0,0,1.0735885,152.04604,-6.4803603)"><tspan
+         sodipodi:role="line"
+         x="705.80756"
+         y="803.86755"
+         id="tspan4247"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.26206207px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;text-align:center;text-anchor:middle;stroke:#502a2a;stroke-width:0.99138767;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">PRIVAT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.744;fill:#241516;fill-opacity:1;stroke:#5a2c2c;stroke-width:0.90251106;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4777)"
+       x="632.77014"
+       y="779.69183"
+       id="text4357"
+       transform="matrix(0.85657108,0,0,1.0778791,159.89946,-7.9151229)"><tspan
+         sodipodi:role="line"
+         id="tspan4359"
+         x="632.77014"
+         y="779.69183"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.94702911px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#5a2c2c;stroke-width:0.90251106;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">HEKSEN</tspan><tspan
+         sodipodi:role="line"
+         x="632.77014"
+         y="794.92316"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.94702911px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#5a2c2c;stroke-width:0.90251106;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan57" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;opacity:0.58800001;fill:#2d1a1c;fill-opacity:1;stroke:#3e1b1b;stroke-width:0.95986927;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4781)"
+       x="653.07074"
+       y="748.37018"
+       id="text4385"
+       transform="matrix(0.84752017,0,0,1.0801636,162.91517,-10.879322)"><tspan
+         sodipodi:role="line"
+         id="tspan4387"
+         x="653.07074"
+         y="748.37018"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.29540443px;line-height:1.25;font-family:Fondamento;-inkscape-font-specification:Fondamento;stroke:#3e1b1b;stroke-width:0.95986927;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">PAS PÅ</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot86"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion88"><rect
+           id="rect90"
+           width="3056.0842"
+           height="3827.2456"
+           x="-7.1403837"
+           y="52.095554" /></flowRegion><flowPara
+         id="flowPara92" /></flowRoot>  </g>
+</svg>
